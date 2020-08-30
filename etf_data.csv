@@ -1,0 +1,2059 @@
+,ticker,fund_aum,asset_class,focus,development_level,region,is_levered,options_available
+0,FLGE,2409798109.0,Equity,Large Cap,Developed Markets,North America,1.0,0.0
+1,RDVY,508303563.0,Equity,High Dividend Yield,Developed Markets,North America,0.0,0.0
+2,KBA,321524168.0,Equity,Broad Equity,Emerging Markets,Asia-Pacific,0.0,1.0
+3,IPOS,2248622.0,Equity,Alpha-Seeking,Developed Markets,Global Ex-U.S.,0.0,0.0
+4,CEFL,230522000.0,Multi Asset,Target Outcome,Blended Development,Global,1.0,0.0
+5,SPY,280305259398.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+6,MDY,21405704741.0,Equity,Mid Cap,Developed Markets,North America,0.0,1.0
+7,EWS,719099500.0,Equity,Broad Equity,Developed Markets,Asia-Pacific,0.0,1.0
+8,EWW,1156450000.0,Equity,Broad Equity,Emerging Markets,Latin America,0.0,1.0
+9,EWM,642312000.0,Equity,Broad Equity,Emerging Markets,Asia-Pacific,0.0,1.0
+10,EWA,1461418000.0,Equity,Broad Equity,Developed Markets,Asia-Pacific,0.0,1.0
+11,EWL,1015297500.0,Equity,Broad Equity,Developed Markets,Europe,0.0,1.0
+12,EWN,185735000.0,Equity,Broad Equity,Developed Markets,Europe,0.0,1.0
+13,EWH,2462397000.0,Equity,Broad Equity,Developed Markets,Asia-Pacific,0.0,1.0
+14,EWU,1878910000.0,Equity,Broad Equity,Developed Markets,Europe,0.0,1.0
+15,EWD,322920000.0,Equity,Broad Equity,Developed Markets,Europe,0.0,1.0
+16,EWG,3847374000.0,Equity,Broad Equity,Developed Markets,Europe,0.0,1.0
+17,EWC,2768601000.0,Equity,Broad Equity,Developed Markets,North America,0.0,1.0
+18,EWO,254448000.0,Equity,Broad Equity,Developed Markets,Europe,0.0,0.0
+19,EWK,69555200.0,Equity,Broad Equity,Developed Markets,Europe,0.0,1.0
+20,EWQ,849560000.0,Equity,Broad Equity,Developed Markets,Europe,0.0,1.0
+21,EWI,651740250.0,Equity,Broad Equity,Developed Markets,Europe,0.0,1.0
+22,EWP,974100000.0,Equity,Broad Equity,Developed Markets,Europe,0.0,1.0
+23,EWJ,21050994000.0,Equity,Broad Equity,Developed Markets,Asia-Pacific,0.0,1.0
+24,DIA,22996749759.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+25,XLY,14619113752.0,Equity,Consumer Discretionary,Developed Markets,North America,0.0,1.0
+26,XLP,8117345612.0,Equity,Consumer Staples,Developed Markets,North America,0.0,1.0
+27,XLE,19135664040.0,Equity,Energy,Developed Markets,North America,0.0,1.0
+28,XLF,33234218035.0,Equity,Financials,Developed Markets,North America,0.0,1.0
+29,XLV,17552115505.0,Equity,Health Care,Developed Markets,North America,0.0,1.0
+30,XLI,13475294880.0,Equity,Industrials,Developed Markets,North America,0.0,1.0
+31,XLB,5064824620.0,Equity,Basic Materials,Developed Markets,North America,0.0,1.0
+32,XLK,22696888157.0,Equity,Technology,Developed Markets,North America,0.0,1.0
+33,XLU,7324428074.0,Equity,Utilities,Developed Markets,North America,0.0,1.0
+34,QQQ,68600164500.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+35,EWY,3876151500.0,Equity,Broad Equity,Developed Markets,Asia-Pacific,0.0,1.0
+36,IVV,157777026000.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+37,IWB,21331281000.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+38,IYW,4651782000.0,Equity,Technology,Developed Markets,North America,0.0,1.0
+39,IYF,2424435000.0,Equity,Financials,Developed Markets,North America,0.0,1.0
+40,IVW,22502745000.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+41,IVE,16623945000.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+42,IWD,38384115000.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+43,IJR,42488652500.0,Equity,Small Cap,Developed Markets,North America,0.0,1.0
+44,IWF,45617832000.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+45,IWV,9024949500.0,Equity,Broad Equity,Developed Markets,North America,0.0,1.0
+46,IJH,48511528000.0,Equity,Mid Cap,Developed Markets,North America,0.0,1.0
+47,IWM,46618842000.0,Equity,Small Cap,Developed Markets,North America,0.0,1.0
+48,IYZ,339113000.0,Equity,Telecommunications,Developed Markets,North America,0.0,1.0
+49,IYC,838080000.0,Equity,Consumer Discretionary,Developed Markets,North America,0.0,0.0
+50,IYK,458470000.0,Equity,Consumer Staples,Developed Markets,North America,0.0,0.0
+51,IYE,1132347000.0,Equity,Energy,Developed Markets,North America,0.0,1.0
+52,IYG,1728135000.0,Equity,Financials,Developed Markets,North America,0.0,1.0
+53,IYR,3609079500.0,Real Estate,Real Estate,Developed Markets,North America,0.0,1.0
+54,IYH,2091631500.0,Equity,Health Care,Developed Markets,North America,0.0,1.0
+55,IYJ,1149531000.0,Equity,Industrials,Developed Markets,North America,0.0,1.0
+56,IYM,659490000.0,Equity,Basic Materials,Developed Markets,North America,0.0,1.0
+57,IYY,1244910000.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+58,IDU,626866500.0,Equity,Utilities,Developed Markets,North America,0.0,1.0
+59,EWT,3975066000.0,Equity,Broad Equity,Emerging Markets,Asia-Pacific,0.0,1.0
+60,EWZ,6595708500.0,Equity,Broad Equity,Emerging Markets,Latin America,0.0,1.0
+61,IJT,6211188000.0,Equity,Small Cap,Developed Markets,North America,0.0,1.0
+62,IJS,5561654000.0,Equity,Small Cap,Developed Markets,North America,0.0,1.0
+63,IUSG,4269388500.0,Equity,Broad Equity,Developed Markets,North America,0.0,1.0
+64,IWO,10857758000.0,Equity,Small Cap,Developed Markets,North America,0.0,1.0
+65,IJK,8354964000.0,Equity,Mid Cap,Developed Markets,North America,0.0,1.0
+66,IUSV,3816574000.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+67,IJJ,6147875500.0,Equity,Mid Cap,Developed Markets,North America,0.0,1.0
+68,IWN,9974706000.0,Equity,Small Cap,Developed Markets,North America,0.0,1.0
+69,EZU,13120490000.0,Equity,Broad Equity,Developed Markets,Europe,0.0,1.0
+70,IEV,2688040000.0,Equity,Large Cap,Developed Markets,Europe,0.0,1.0
+71,SPYG,2433301609.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+72,SLYG,474180474.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+73,SLYV,687994441.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+74,SPYV,1444298516.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+75,DGT,95575298.0,Equity,Large Cap,Blended Development,Global,0.0,0.0
+76,XNTK,979325627.0,Equity,Technology,Developed Markets,North America,0.0,0.0
+77,SPTM,2126656832.0,Equity,Broad Equity,Developed Markets,North America,0.0,1.0
+78,OEF,5682357000.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+79,IOO,956386000.0,Equity,Large Cap,Blended Development,Global,0.0,1.0
+80,ICF,2641851000.0,Real Estate,Real Estate,Developed Markets,North America,0.0,1.0
+81,IBB,9884704000.0,Equity,Health Care,Developed Markets,North America,0.0,1.0
+82,IGM,1654077000.0,Equity,Technology,Developed Markets,North America,0.0,1.0
+83,RWR,2517833183.0,Real Estate,Real Estate,Developed Markets,North America,0.0,1.0
+84,VTI,103112600830.0,Equity,Broad Equity,Developed Markets,North America,0.0,1.0
+85,IGN,80243000.0,Equity,Technology,Developed Markets,North America,0.0,1.0
+86,SOXX,1672119000.0,Equity,Technology,Developed Markets,North America,0.0,1.0
+87,IGV,1789116000.0,Equity,Technology,Developed Markets,North America,0.0,1.0
+88,IWR,18280839500.0,Equity,Mid Cap,Developed Markets,North America,0.0,1.0
+89,IWS,10962457000.0,Equity,Mid Cap,Developed Markets,North America,0.0,1.0
+90,IWP,9380550000.0,Equity,Mid Cap,Developed Markets,North America,0.0,1.0
+91,EFA,75425280000.0,Equity,Broad Equity,Developed Markets,Developed Markets,0.0,1.0
+92,IGE,1025352000.0,Equity,Natural Resources,Blended Development,Global,0.0,1.0
+93,JPXN,116015760.0,Equity,Broad Equity,Developed Markets,Asia-Pacific,0.0,0.0
+94,ILF,1687395000.0,Equity,Large Cap,Emerging Markets,Latin America,0.0,1.0
+95,EPP,2525805000.0,Equity,Broad Equity,Developed Markets,Asia-Pacific,0.0,1.0
+96,IXC,1387312500.0,Equity,Energy,Blended Development,Global,0.0,1.0
+97,IXG,603588000.0,Equity,Financials,Blended Development,Global,0.0,0.0
+98,IXN,1905756000.0,Equity,Technology,Blended Development,Global,0.0,0.0
+99,IXP,397440000.0,Equity,Telecommunications,Blended Development,Global,0.0,1.0
+100,IXJ,866871500.0,Equity,Health Care,Blended Development,Global,0.0,1.0
+101,VXF,6489821683.0,Equity,Broad Equity,Developed Markets,North America,0.0,1.0
+102,TLT,7673760000.0,Fixed Income,Treasury,Developed Markets,North America,0.0,1.0
+103,LQD,32229120000.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,1.0
+104,SHY,12396379000.0,Fixed Income,Treasury,Developed Markets,North America,0.0,1.0
+105,IEF,8726985000.0,Fixed Income,Treasury,Developed Markets,North America,0.0,1.0
+106,FEU,223356521.0,Equity,Large Cap,Developed Markets,Europe,0.0,0.0
+107,FEZ,4151545107.0,Equity,Large Cap,Developed Markets,Europe,0.0,1.0
+108,ADRE,151810000.0,Equity,Large Cap,Emerging Markets,Emerging Markets,0.0,0.0
+109,ADRA,21066500.0,Equity,Large Cap,Blended Development,Asia-Pacific,0.0,0.0
+110,ADRU,16476900.0,Equity,Large Cap,Blended Development,Europe,0.0,0.0
+111,ADRD,66572355.0,Equity,Large Cap,Developed Markets,Developed Markets,0.0,0.0
+112,EZA,406875000.0,Equity,Broad Equity,Emerging Markets,Middle East & Africa,0.0,1.0
+113,EEM,38004408000.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,1.0
+114,RSP,15708031320.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+115,DWAQ,57530000.0,Equity,Alpha-Seeking,Developed Markets,North America,0.0,0.0
+116,PWC,169856160.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+117,FVL,53746565.0,Equity,Alpha-Seeking,Developed Markets,North America,0.0,0.0
+118,FVD,4303903234.0,Equity,High Dividend Yield,Developed Markets,North America,0.0,1.0
+119,AGG,55429896000.0,Fixed Income,Broad Debt,Developed Markets,North America,0.0,1.0
+120,ONEQ,1848264179.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+121,IYT,890945250.0,Equity,Industrials,Developed Markets,North America,0.0,1.0
+122,DVY,17619987500.0,Equity,High Dividend Yield,Developed Markets,North America,0.0,1.0
+123,TIP,24239312000.0,Fixed Income,TIPS,Developed Markets,North America,0.0,1.0
+124,ITOT,14612202000.0,Equity,Broad Equity,Developed Markets,North America,0.0,1.0
+125,VCR,2973060289.0,Equity,Consumer Discretionary,Developed Markets,North America,0.0,1.0
+126,VDC,3865268107.0,Equity,Consumer Staples,Developed Markets,North America,0.0,1.0
+127,VFH,8538666904.0,Equity,Financials,Developed Markets,North America,0.0,1.0
+128,VHT,8220453082.0,Equity,Health Care,Developed Markets,North America,0.0,1.0
+129,VAW,2707113889.0,Equity,Basic Materials,Developed Markets,North America,0.0,1.0
+130,VB,24085591498.0,Equity,Small Cap,Developed Markets,North America,0.0,1.0
+131,VBR,13790796815.0,Equity,Small Cap,Developed Markets,North America,0.0,1.0
+132,VTV,39221909470.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+133,VUG,37084691366.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+134,VBK,8504081991.999998,Equity,Small Cap,Developed Markets,North America,0.0,1.0
+135,VO,23972899341.0,Equity,Mid Cap,Developed Markets,North America,0.0,1.0
+136,VGT,21602264828.0,Equity,Technology,Developed Markets,North America,0.0,1.0
+137,VPU,2702081277.0,Equity,Utilities,Developed Markets,North America,0.0,1.0
+138,VV,13194592534.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+139,JKD,1049784000.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+140,JKE,1045928000.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+141,JKF,404481780.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+142,JKJ,264973000.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+143,JKG,794600500.0,Equity,Mid Cap,Developed Markets,North America,0.0,0.0
+144,JKH,294100000.0,Equity,Mid Cap,Developed Markets,North America,0.0,0.0
+145,JKI,435713000.0,Equity,Mid Cap,Developed Markets,North America,0.0,0.0
+146,JKK,191376000.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+147,JKL,484470170.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+148,VDE,4480504688.0,Equity,Energy,Developed Markets,North America,0.0,1.0
+149,VNQ,31046126884.0,Real Estate,Real Estate,Developed Markets,North America,0.0,1.0
+150,VIS,3801245366.0,Equity,Industrials,Developed Markets,North America,0.0,1.0
+151,VOX,940201906.0,Equity,Telecommunications,Developed Markets,North America,0.0,1.0
+152,FXI,4067856000.0,Equity,Large Cap,Emerging Markets,Asia-Pacific,0.0,1.0
+153,GLD,33519038000.0,Commodities,Gold,Blended Development,Global,0.0,1.0
+154,PEY,805476000.0,Equity,High Dividend Yield,Developed Markets,North America,0.0,1.0
+155,PGJ,226457000.0,Equity,Broad Equity,Emerging Markets,Asia-Pacific,0.0,1.0
+156,IBND,351936000.0,Fixed Income,Investment Grade,Developed Markets,Global Ex-U.S.,0.0,0.0
+157,IAU,11103936000.0,Commodities,Gold,Blended Development,Global,0.0,1.0
+158,SUSA,740829000.0,Equity,Theme,Developed Markets,North America,0.0,0.0
+159,PWB,633698500.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+160,PWV,1440953500.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+161,PBW,120834972.0,Equity,Theme,Blended Development,Global,0.0,1.0
+162,VPL,4675417210.0,Equity,Broad Equity,Developed Markets,Asia-Pacific,0.0,1.0
+163,VGK,18176376335.0,Equity,Broad Equity,Developed Markets,Europe,0.0,1.0
+164,VWO,60491247972.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,1.0
+165,XLG,763034509.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+166,PEJ,120829800.0,Equity,Consumer Discretionary,Developed Markets,North America,0.0,0.0
+167,PBS,53493000.0,Equity,Consumer Discretionary,Developed Markets,North America,0.0,0.0
+168,PBJ,79089360.0,Equity,Consumer Staples,Developed Markets,North America,0.0,0.0
+169,PBE,284161500.0,Equity,Health Care,Developed Markets,North America,0.0,0.0
+170,PJP,623209500.0,Equity,Health Care,Developed Markets,North America,0.0,1.0
+171,PXQ,72375000.0,Equity,Technology,Developed Markets,North America,0.0,0.0
+172,PSI,349783500.0,Equity,Technology,Developed Markets,North America,0.0,0.0
+173,PSJ,188584000.0,Equity,Technology,Developed Markets,North America,0.0,0.0
+174,EFG,3473712000.0,Equity,Broad Equity,Developed Markets,Developed Markets,0.0,1.0
+175,EFV,6295716000.0,Equity,Broad Equity,Developed Markets,Developed Markets,0.0,1.0
+176,IWC,997458000.0,Equity,Micro Cap,Developed Markets,North America,0.0,1.0
+177,PID,853108000.0,Equity,High Dividend Yield,Developed Markets,Developed Markets,0.0,1.0
+178,PFM,313010000.0,Equity,High Dividend Yield,Developed Markets,North America,0.0,1.0
+179,FDM,110810100.0,Equity,Micro Cap,Developed Markets,North America,0.0,0.0
+180,PMR,12267000.0,Equity,Consumer Discretionary,Developed Markets,North America,0.0,0.0
+181,PXJ,39429000.0,Equity,Energy,Developed Markets,North America,0.0,1.0
+182,PXE,55883000.0,Equity,Energy,Developed Markets,North America,0.0,0.0
+183,PPA,1098127000.0,Equity,Industrials,Developed Markets,North America,0.0,0.0
+184,PKB,282534000.0,Equity,Industrials,Developed Markets,North America,0.0,0.0
+185,PUI,47208150.0,Equity,Utilities,Developed Markets,North America,0.0,0.0
+186,KBE,4136186982.0,Equity,Financials,Developed Markets,North America,0.0,1.0
+187,KCE,164741400.0,Equity,Financials,Developed Markets,North America,0.0,1.0
+188,KIE,961092000.0,Equity,Financials,Developed Markets,North America,0.0,1.0
+189,SLY,518752242.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+190,SPLG,1323468000.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+191,MDYV,392007500.0,Equity,Mid Cap,Developed Markets,North America,0.0,0.0
+192,MDYG,390659500.0,Equity,Mid Cap,Developed Markets,North America,0.0,0.0
+193,SPMD,665388000.0,Equity,Mid Cap,Developed Markets,North America,0.0,0.0
+194,SDY,17506790679.0,Equity,High Dividend Yield,Developed Markets,North America,0.0,1.0
+195,PHO,875784000.0,Equity,Natural Resources,Blended Development,Global,0.0,1.0
+196,SPHQ,1464471000.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+197,FXE,382466000.0,Currency,Euro,Developed Markets,Europe,0.0,1.0
+198,PRF,5514463500.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+199,XHB,939452130.0,Equity,Consumer Discretionary,Developed Markets,North America,0.0,1.0
+200,XBI,5473523000.0,Equity,Health Care,Developed Markets,North America,0.0,1.0
+201,XSD,345142000.0,Equity,Technology,Developed Markets,North America,0.0,1.0
+202,DBC,2996200710.0,Commodities,Broad Commodities,Blended Development,Global,0.0,1.0
+203,RZV,177379085.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+204,RFV,112519712.0,Equity,Mid Cap,Developed Markets,North America,0.0,0.0
+205,RZG,308134296.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+206,RPV,919879347.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+207,RFG,647179625.0,Equity,Mid Cap,Developed Markets,North America,0.0,0.0
+208,RPG,2580250883.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+209,FDL,1595370060.0,Equity,High Dividend Yield,Developed Markets,North America,0.0,0.0
+210,USO,2157875000.0,Commodities,Crude Oil,Blended Development,Global,0.0,1.0
+211,FPX,1153188148.0,Equity,Alpha-Seeking,Developed Markets,North America,0.0,0.0
+212,QQEW,577304127.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+213,QTEC,2545731659.0,Equity,Technology,Developed Markets,North America,0.0,1.0
+214,SLV,4510453500.0,Commodities,Silver,Blended Development,Global,0.0,1.0
+215,VIG,30305191950.0,Equity,High Dividend Yield,Developed Markets,North America,0.0,1.0
+216,ITB,1481291500.0,Equity,Consumer Discretionary,Developed Markets,North America,0.0,1.0
+217,IEZ,226233000.0,Equity,Energy,Developed Markets,North America,0.0,1.0
+218,IEO,449255500.0,Equity,Energy,Developed Markets,North America,0.0,1.0
+219,IAT,943500000.0,Equity,Financials,Developed Markets,North America,0.0,1.0
+220,IAI,413673600.0,Equity,Financials,Developed Markets,North America,0.0,1.0
+221,IAK,128060000.0,Equity,Financials,Developed Markets,North America,0.0,0.0
+222,IHI,2105994000.0,Equity,Health Care,Developed Markets,North America,0.0,1.0
+223,IHF,614420000.0,Equity,Health Care,Developed Markets,North America,0.0,1.0
+224,IHE,437736000.0,Equity,Health Care,Developed Markets,North America,0.0,1.0
+225,ITA,6453740000.0,Equity,Industrials,Developed Markets,North America,0.0,1.0
+226,GDX,6541507000.0,Equity,Basic Materials,Blended Development,Global,0.0,1.0
+227,RYJ,200857291.0,Equity,Alpha-Seeking,Developed Markets,North America,0.0,0.0
+228,DJP,1090880510.0,Commodities,Broad Commodities,Blended Development,Global,0.0,1.0
+229,GSP,40324483.0,Commodities,Broad Commodities,Blended Development,Global,0.0,0.0
+230,DLN,2086194000.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+231,DTD,630370000.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+232,DTN,871682000.0,Equity,High Dividend Yield,Developed Markets,North America,0.0,1.0
+233,DES,2129368500.0,Equity,Small Cap,Developed Markets,North America,0.0,1.0
+234,DHS,1069719000.0,Equity,High Dividend Yield,Developed Markets,North America,0.0,0.0
+235,DON,3328997000.0,Equity,Mid Cap,Developed Markets,North America,0.0,1.0
+236,AXJL,44759000.0,Equity,Broad Equity,Blended Development,Asia-Pacific,0.0,0.0
+237,DOL,444525900.0,Equity,Large Cap,Developed Markets,Developed Markets,0.0,0.0
+238,DWM,900480000.0,Equity,Broad Equity,Developed Markets,Developed Markets,0.0,0.0
+239,DXJ,6643242000.0,Equity,Broad Equity,Developed Markets,Asia-Pacific,0.0,1.0
+240,DIM,279384000.0,Equity,Mid Cap,Developed Markets,Developed Markets,0.0,0.0
+241,DEW,106494750.0,Equity,High Dividend Yield,Blended Development,Global,0.0,0.0
+242,DFE,1155987000.0,Equity,Small Cap,Developed Markets,Europe,0.0,1.0
+243,DLS,1867404000.0,Equity,Small Cap,Developed Markets,Developed Markets,0.0,1.0
+244,DNL,69352920.0,Equity,Broad Equity,Blended Development,Global Ex-U.S.,0.0,0.0
+245,DOO,195523000.0,Equity,High Dividend Yield,Developed Markets,Developed Markets,0.0,0.0
+246,DTH,328057500.0,Equity,High Dividend Yield,Developed Markets,Developed Markets,0.0,0.0
+247,DFJ,1044888000.0,Equity,Small Cap,Developed Markets,Asia-Pacific,0.0,1.0
+248,FBT,1699869813.0,Equity,Health Care,Developed Markets,North America,0.0,1.0
+249,FDN,8188101782.0,Equity,Technology,Developed Markets,North America,0.0,1.0
+250,SH,1284027399.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+251,QLD,2060740000.0,Equity,Large Cap,Developed Markets,North America,1.0,1.0
+252,DOG,908850000.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+253,MVV,58803000.0,Equity,Mid Cap,Developed Markets,North America,1.0,0.0
+254,MYY,40657500.0,Equity,Mid Cap,Developed Markets,North America,0.0,1.0
+255,PSQ,301318125.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+256,DDM,174755000.0,Equity,Large Cap,Developed Markets,North America,1.0,1.0
+257,SSO,2683276000.0,Equity,Large Cap,Developed Markets,North America,1.0,1.0
+258,XRT,420514019.0,Equity,Consumer Discretionary,Developed Markets,North America,0.0,1.0
+259,XES,370440000.0,Equity,Energy,Developed Markets,North America,0.0,1.0
+260,XOP,2999035500.0,Equity,Energy,Developed Markets,North America,0.0,1.0
+261,KRE,4863519935.0,Equity,Financials,Developed Markets,North America,0.0,1.0
+262,XPH,403808135.0,Equity,Health Care,Developed Markets,North America,0.0,1.0
+263,XME,967687949.0,Equity,Basic Materials,Developed Markets,North America,0.0,1.0
+264,FXA,123454510.0,Currency,Australian Dollar,Developed Markets,Asia-Pacific,0.0,1.0
+265,FXB,184425500.0,Currency,Pound Sterling,Developed Markets,Europe,0.0,1.0
+266,FXC,159957000.0,Currency,Canadian Dollar,Developed Markets,North America,0.0,1.0
+267,FXF,159967500.0,Currency,Swiss Franc,Developed Markets,Europe,0.0,1.0
+268,FXS,21348000.0,Currency,Swedish Krona,Developed Markets,Europe,0.0,1.0
+269,FTCS,909708111.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+270,GSG,1515283000.0,Commodities,Broad Commodities,Blended Development,Global,0.0,1.0
+271,SDS,717350660.0,Equity,Large Cap,Developed Markets,North America,1.0,1.0
+272,DXD,477798023.0,Equity,Large Cap,Developed Markets,North America,1.0,1.0
+273,MZZ,3255608.0,Equity,Mid Cap,Developed Markets,North America,1.0,1.0
+274,QID,828765898.0,Equity,Large Cap,Developed Markets,North America,1.0,1.0
+275,VOE,8891850921.0,Equity,Mid Cap,Developed Markets,North America,0.0,1.0
+276,VOT,5751224081.0,Equity,Mid Cap,Developed Markets,North America,0.0,1.0
+277,RXI,263076000.0,Equity,Consumer Discretionary,Blended Development,Global,0.0,0.0
+278,KXI,264022500.0,Equity,Consumer Staples,Blended Development,Global,0.0,0.0
+279,EXI,263340000.0,Equity,Industrials,Blended Development,Global,0.0,0.0
+280,MXI,392840575.0,Equity,Basic Materials,Blended Development,Global,0.0,1.0
+281,JXI,145494000.0,Equity,Utilities,Blended Development,Global,0.0,0.0
+282,DBV,28428948.0,Currency,Long/Short,Developed Markets,Developed Markets,0.0,0.0
+283,PRFZ,2064800000.0,Equity,Broad Equity,Developed Markets,North America,0.0,1.0
+284,EEB,82050678.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,1.0
+285,NFO,76450981.0,Equity,Alpha-Seeking,Developed Markets,North America,0.0,0.0
+286,CVY,293326912.0,Multi Asset,Target Outcome,Developed Markets,Global,0.0,1.0
+287,SLX,138805500.0,Equity,Basic Materials,Blended Development,Global,0.0,1.0
+288,EVX,24482625.0,Equity,Theme,Blended Development,Global,0.0,0.0
+289,PEZ,64887130.0,Equity,Consumer Discretionary,Developed Markets,North America,0.0,1.0
+290,PSL,97680870.0,Equity,Consumer Staples,Developed Markets,North America,0.0,1.0
+291,PXI,92505000.0,Equity,Energy,Developed Markets,North America,0.0,1.0
+292,PFI,69845800.0,Equity,Financials,Developed Markets,North America,0.0,0.0
+293,PTH,195180000.0,Equity,Health Care,Developed Markets,North America,0.0,1.0
+294,PRN,119288000.0,Equity,Industrials,Developed Markets,North America,0.0,1.0
+295,PYZ,104991000.0,Equity,Basic Materials,Developed Markets,North America,0.0,0.0
+296,PTF,135996000.0,Equity,Technology,Developed Markets,North America,0.0,1.0
+297,PZD,166288000.0,Equity,Theme,Blended Development,Global,0.0,0.0
+298,PSP,252657000.0,Equity,Financials,Blended Development,Global,0.0,1.0
+299,RCD,90504175.0,Equity,Consumer Discretionary,Developed Markets,North America,0.0,0.0
+300,RHS,441551200.0,Equity,Consumer Staples,Developed Markets,North America,0.0,0.0
+301,RYE,286855392.0,Equity,Energy,Developed Markets,North America,0.0,0.0
+302,RYF,445014000.0,Equity,Financials,Developed Markets,North America,0.0,0.0
+303,RYH,681390000.0,Equity,Health Care,Developed Markets,North America,0.0,1.0
+304,RGI,317600000.0,Equity,Industrials,Developed Markets,North America,0.0,0.0
+305,RTM,189613580.0,Equity,Basic Materials,Developed Markets,North America,0.0,0.0
+306,RYT,1819007500.0,Equity,Technology,Developed Markets,North America,0.0,0.0
+307,RYU,144028500.0,Equity,Utilities,Developed Markets,North America,0.0,0.0
+308,VYM,22007346541.0,Equity,High Dividend Yield,Developed Markets,North America,0.0,1.0
+309,DSI,1131698500.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+310,PGF,1554335500.0,Equity,Preferred Stock,Developed Markets,North America,0.0,1.0
+311,PXMG,157296000.0,Equity,Mid Cap,Developed Markets,North America,0.0,0.0
+312,PXSG,57782500.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+313,PXMV,47265000.0,Equity,Mid Cap,Developed Markets,North America,0.0,0.0
+314,PXSV,78360000.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+315,EQWM,25682000.0,Equity,Mid Cap,Developed Markets,North America,0.0,0.0
+316,EQWL,64782720.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+317,TUSA,16164072.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+318,RWX,3418068200.0,Real Estate,Real Estate,Blended Development,Global Ex-U.S.,0.0,1.0
+319,CSD,214483500.0,Equity,Alpha-Seeking,Developed Markets,North America,0.0,1.0
+320,DEF,192115000.0,Equity,Alpha-Seeking,Developed Markets,North America,0.0,0.0
+321,PKW,1417805500.0,Equity,Alpha-Seeking,Developed Markets,North America,0.0,1.0
+322,IEI,7217230000.0,Fixed Income,Treasury,Developed Markets,North America,0.0,1.0
+323,TLH,525798760.0,Fixed Income,Treasury,Developed Markets,North America,0.0,1.0
+324,SHV,13853945000.0,Fixed Income,Treasury,Developed Markets,North America,0.0,0.0
+325,GBF,142363000.0,Fixed Income,Broad Debt,Developed Markets,North America,0.0,0.0
+326,GVI,1887424000.0,Fixed Income,Broad Debt,Developed Markets,North America,0.0,1.0
+327,IGIB,0.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,1.0
+328,USIG,0.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,1.0
+329,IGSB,0.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,1.0
+330,DBP,144781679.0,Commodities,Broad Precious Metals,Blended Development,Global,0.0,1.0
+331,DGL,180913508.0,Commodities,Gold,Blended Development,Global,0.0,1.0
+332,DBB,289520658.0,Commodities,Broad Industrials,Blended Development,Global,0.0,1.0
+333,DBO,401888529.0,Commodities,Crude Oil,Blended Development,Global,0.0,1.0
+334,DBS,17304865.0,Commodities,Silver,Blended Development,Global,0.0,1.0
+335,DBE,220100710.0,Commodities,Broad Energy,Blended Development,Global,0.0,1.0
+336,DBA,660764681.0,Commodities,Broad Agriculture,Blended Development,Global,0.0,1.0
+337,CWI,1540056000.0,Equity,Broad Equity,Blended Development,Global Ex-U.S.,0.0,1.0
+338,UWM,256110000.0,Equity,Small Cap,Developed Markets,North America,1.0,1.0
+339,SAA,31415000.0,Equity,Small Cap,Developed Markets,North America,1.0,1.0
+340,SBB,3531958.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+341,SDD,2026892.0,Equity,Small Cap,Developed Markets,North America,1.0,0.0
+342,RWM,249248904.0,Equity,Small Cap,Developed Markets,North America,0.0,1.0
+343,TWM,73514249.0,Equity,Small Cap,Developed Markets,North America,1.0,1.0
+344,GII,219690000.0,Equity,Theme,Blended Development,Global,0.0,0.0
+345,SCC,1076215.0,Equity,Consumer Discretionary,Developed Markets,North America,1.0,0.0
+346,UCC,29519188.0,Equity,Consumer Discretionary,Developed Markets,North America,1.0,0.0
+347,SZK,2358876.0,Equity,Consumer Staples,Developed Markets,North America,1.0,0.0
+348,UGE,12064250.0,Equity,Consumer Staples,Developed Markets,North America,1.0,0.0
+349,DUG,19679686.0,Equity,Energy,Developed Markets,North America,1.0,1.0
+350,DIG,132979000.0,Equity,Energy,Developed Markets,North America,1.0,1.0
+351,UYG,330024983.0,Equity,Financials,Developed Markets,North America,1.0,1.0
+352,URE,146502136.0,Real Estate,Real Estate,Developed Markets,North America,1.0,1.0
+353,SRS,19594770.0,Real Estate,Real Estate,Developed Markets,North America,1.0,1.0
+354,RXL,120540000.0,Equity,Health Care,Developed Markets,North America,1.0,1.0
+355,RXD,787038.0,Equity,Health Care,Developed Markets,North America,1.0,0.0
+356,SIJ,2261052.0,Equity,Industrials,Developed Markets,North America,1.0,0.0
+357,UXI,30245212.0,Equity,Industrials,Developed Markets,North America,1.0,0.0
+358,SMN,9789864.0,Equity,Basic Materials,Developed Markets,North America,1.0,1.0
+359,UYM,63639000.0,Equity,Basic Materials,Developed Markets,North America,1.0,1.0
+360,ROM,378396500.0,Equity,Technology,Developed Markets,North America,1.0,1.0
+361,REW,2771215.0,Equity,Technology,Developed Markets,North America,1.0,1.0
+362,USD,35099750.0,Equity,Technology,Developed Markets,North America,1.0,1.0
+363,SSG,5056012.0,Equity,Technology,Developed Markets,North America,1.0,0.0
+364,UPW,13155725.0,Equity,Utilities,Developed Markets,North America,1.0,0.0
+365,SDP,4995640.0,Equity,Utilities,Developed Markets,North America,1.0,0.0
+366,QCLN,95773351.0,Equity,Theme,Blended Development,Global,0.0,0.0
+367,QQXT,100472296.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+368,FXY,161101000.0,Currency,Japanese Yen,Developed Markets,Asia-Pacific,0.0,1.0
+369,UUP,564775000.0,Currency,Developed Markets,Blended Development,Global Ex-U.S.,0.0,1.0
+370,UDN,43480870.0,Currency,Developed Markets,Blended Development,Global Ex-U.S.,0.0,1.0
+371,SKF,24872264.0,Equity,Financials,Developed Markets,North America,1.0,1.0
+372,EPS,204352000.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+373,EXT,74436780.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+374,QSY,44243900.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+375,EES,672168000.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+376,EZM,1122061500.0,Equity,Mid Cap,Developed Markets,North America,0.0,0.0
+377,PDP,1712103000.0,Equity,Alpha-Seeking,Developed Markets,North America,0.0,1.0
+378,VEU,22751972611.0,Equity,Broad Equity,Blended Development,Global Ex-U.S.,0.0,1.0
+379,MBB,12090111000.0,Fixed Income,Agency MBS,Developed Markets,North America,0.0,1.0
+380,GXC,1031159000.0,Equity,Broad Equity,Emerging Markets,Asia-Pacific,0.0,1.0
+381,SPEM,1641936000.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,0.0
+382,GMF,473095490.0,Equity,Broad Equity,Emerging Markets,Asia-Pacific,0.0,1.0
+383,PFF,16194804000.0,Equity,Preferred Stock,Developed Markets,North America,0.0,1.0
+384,CZA,272036500.0,Equity,Mid Cap,Developed Markets,North America,0.0,0.0
+385,BLV,2158096000.0,Fixed Income,Broad Debt,Developed Markets,North America,0.0,1.0
+386,BIV,14812308856.0,Fixed Income,Broad Debt,Developed Markets,North America,0.0,1.0
+387,BND,36308056913.0,Fixed Income,Broad Debt,Developed Markets,North America,0.0,1.0
+388,BSV,23970602571.0,Fixed Income,Broad Debt,Developed Markets,North America,0.0,1.0
+389,HYG,14895360000.0,Fixed Income,High Yield,Developed Markets,North America,0.0,1.0
+390,UNG,410925467.0,Commodities,Natural Gas,Blended Development,Global,0.0,1.0
+391,SPDW,2606272000.0,Equity,Broad Equity,Blended Development,Global Ex-U.S.,0.0,1.0
+392,GWX,907613000.0,Equity,Small Cap,Developed Markets,Developed Markets,0.0,0.0
+393,RSX,1891971000.0,Equity,Broad Equity,Emerging Markets,Europe,0.0,1.0
+394,USRT,554625000.0,Real Estate,Real Estate,Developed Markets,North America,0.0,0.0
+395,REZ,301920000.0,Real Estate,Real Estate,Developed Markets,North America,0.0,1.0
+396,REM,1053939000.0,Real Estate,Real Estate,Developed Markets,North America,0.0,1.0
+397,GEX,88561049.0,Equity,Theme,Blended Development,Global,0.0,1.0
+398,FXD,440205587.0,Equity,Consumer Discretionary,Developed Markets,North America,0.0,1.0
+399,FXG,359606595.0,Equity,Consumer Staples,Developed Markets,North America,0.0,1.0
+400,FXN,264854035.0,Equity,Energy,Developed Markets,North America,0.0,1.0
+401,FCG,156041016.0,Equity,Energy,Developed Markets,North America,0.0,1.0
+402,FXO,1202782065.0,Equity,Financials,Developed Markets,North America,0.0,1.0
+403,FRI,100702546.0,Real Estate,Real Estate,Developed Markets,North America,0.0,0.0
+404,FXH,1129815167.0,Equity,Health Care,Developed Markets,North America,0.0,1.0
+405,FXR,1698274585.0,Equity,Industrials,Developed Markets,North America,0.0,1.0
+406,FXZ,317207335.0,Equity,Basic Materials,Developed Markets,North America,0.0,1.0
+407,FNI,358470068.0,Equity,Broad Equity,Emerging Markets,Asia-Pacific,0.0,0.0
+408,FIW,324739102.0,Equity,Natural Resources,Blended Development,Global,0.0,1.0
+409,FAD,145597153.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+410,FAB,98579376.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+411,FYX,617908138.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+412,FNX,845295144.0,Equity,Mid Cap,Developed Markets,North America,0.0,0.0
+413,FTC,874239140.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+414,FTA,1094323445.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+415,FEX,1527232125.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+416,FXL,2116363300.0,Equity,Technology,Developed Markets,North America,0.0,1.0
+417,FXU,281928055.0,Equity,Utilities,Developed Markets,North America,0.0,0.0
+418,CGW,613548000.0,Equity,Natural Resources,Blended Development,Global,0.0,0.0
+419,BIL,3437574695.0,Fixed Income,Treasury,Developed Markets,North America,0.0,0.0
+420,ITE,656087754.0,Fixed Income,Treasury,Developed Markets,North America,0.0,0.0
+421,SPTL,794848000.0,Fixed Income,Treasury,Developed Markets,North America,0.0,0.0
+422,SPAB,2786865292.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+423,IPE,1175484244.0,Fixed Income,TIPS,Developed Markets,North America,0.0,0.0
+424,DRW,99000000.0,Real Estate,Real Estate,Developed Markets,Global Ex-U.S.,0.0,0.0
+425,IDV,4783545000.0,Equity,High Dividend Yield,Developed Markets,Developed Markets,0.0,1.0
+426,PBD,54888250.0,Equity,Theme,Blended Development,Global,0.0,0.0
+427,IDHQ,33866055.0,Equity,Alpha-Seeking,Developed Markets,Developed Markets,0.0,0.0
+428,PIO,187557500.0,Equity,Natural Resources,Blended Development,Global,0.0,0.0
+429,LVL,39744000.0,Equity,High Dividend Yield,Blended Development,Global,0.0,0.0
+430,PXF,1195859250.0,Equity,Broad Equity,Developed Markets,Developed Markets,0.0,0.0
+431,DEM,2112869000.0,Equity,High Dividend Yield,Emerging Markets,Emerging Markets,0.0,1.0
+432,VEA,70008377712.0,Equity,Broad Equity,Developed Markets,Developed Markets,0.0,1.0
+433,WPS,149800000.0,Real Estate,Real Estate,Developed Markets,Developed Markets,0.0,1.0
+434,GSC,102725588.0,Commodities,Broad Commodities,Blended Development,Global,0.0,0.0
+435,EEH,3795372.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+436,NLR,29776682.0,Equity,Theme,Blended Development,Global,0.0,0.0
+437,FFR,44890090.0,Real Estate,Real Estate,Developed Markets,Developed Markets,0.0,0.0
+438,FDD,531228609.0,Equity,High Dividend Yield,Developed Markets,Europe,0.0,0.0
+439,MOO,923691000.0,Equity,Natural Resources,Blended Development,Global,0.0,1.0
+440,MUB,8977241000.0,Fixed Income,Broad Municipals,Developed Markets,North America,0.0,1.0
+441,TFI,2639229720.0,Fixed Income,Broad Municipals,Developed Markets,North America,0.0,1.0
+442,PDN,214120155.0,Equity,Broad Equity,Developed Markets,Developed Markets,0.0,0.0
+443,PXH,1028340000.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,1.0
+444,BWX,1995926046.0,Fixed Income,Broad Sovereign,Developed Markets,Global Ex-U.S.,0.0,1.0
+445,CMF,908245000.0,Fixed Income,Broad Municipals,Developed Markets,North America,0.0,0.0
+446,NYF,295444500.0,Fixed Income,Broad Municipals,Developed Markets,North America,0.0,0.0
+447,SHM,3715928079.0,Fixed Income,Broad Municipals,Developed Markets,North America,0.0,0.0
+448,PLW,179510000.0,Fixed Income,Treasury,Developed Markets,North America,0.0,0.0
+449,PWZ,247350000.0,Fixed Income,Broad Municipals,Developed Markets,North America,0.0,0.0
+450,PZT,67573500.0,Fixed Income,Broad Municipals,Developed Markets,North America,0.0,0.0
+451,PZA,1600031000.0,Fixed Income,Broad Municipals,Developed Markets,North America,0.0,1.0
+452,PCY,4654056000.0,Fixed Income,Broad Sovereign,Emerging Markets,Emerging Markets,0.0,1.0
+453,GCE,7438968.0,Multi Asset,Target Risk,Blended Development,Global,0.0,0.0
+454,RJA,113942400.0,Commodities,Broad Agriculture,Blended Development,Global,0.0,1.0
+455,RJI,404494200.0,Commodities,Broad Commodities,Blended Development,Global,0.0,0.0
+456,RJN,24412000.0,Commodities,Broad Energy,Blended Development,Global,0.0,0.0
+457,RJZ,12426400.0,Commodities,Broad Industrials,Blended Development,Global,0.0,0.0
+458,WMW,32188800.0,Equity,Alpha-Seeking,Developed Markets,North America,0.0,0.0
+459,EFZ,16093750.0,Equity,Broad Equity,Developed Markets,Developed Markets,0.0,1.0
+460,EFU,3155347.0,Equity,Broad Equity,Developed Markets,Developed Markets,1.0,1.0
+461,EEV,84436122.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,1.0,1.0
+462,EUM,160821000.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,1.0
+463,DGS,1518312000.0,Equity,Small Cap,Emerging Markets,Emerging Markets,0.0,1.0
+464,EWV,5101780.0,Equity,Broad Equity,Developed Markets,Asia-Pacific,1.0,1.0
+465,FXP,128711119.0,Equity,Large Cap,Emerging Markets,Asia-Pacific,1.0,1.0
+466,DOD,48028650.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+467,CUT,230535000.0,Equity,Natural Resources,Blended Development,Global,0.0,0.0
+468,IFEU,41500200.0,Real Estate,Real Estate,Developed Markets,Europe,0.0,0.0
+469,IFGL,511104000.0,Real Estate,Real Estate,Developed Markets,Developed Markets,0.0,1.0
+470,IEUS,251291500.0,Equity,Small Cap,Developed Markets,Europe,0.0,0.0
+471,ECH,404002500.0,Equity,Broad Equity,Emerging Markets,Latin America,0.0,1.0
+472,BKF,284142000.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,1.0
+473,AIA,998720000.0,Equity,Large Cap,Blended Development,Asia-Pacific,0.0,0.0
+474,PVI,62275000.0,Fixed Income,VRDO,Developed Markets,North America,0.0,0.0
+475,PHB,996611000.0,Fixed Income,High Yield,Developed Markets,North America,0.0,1.0
+476,FGD,497252051.0,Equity,High Dividend Yield,Blended Development,Global,0.0,0.0
+477,JNK,9399165803.0,Fixed Income,High Yield,Developed Markets,North America,0.0,1.0
+478,ITM,1689250000.0,Fixed Income,Broad Municipals,Developed Markets,North America,0.0,0.0
+479,USL,97236000.0,Commodities,Crude Oil,Blended Development,Global,0.0,1.0
+480,EDV,534352500.0,Fixed Income,Treasury,Developed Markets,North America,0.0,0.0
+481,TOK,153405000.0,Equity,Broad Equity,Developed Markets,Developed Markets,0.0,0.0
+482,SCZ,10574734000.0,Equity,Small Cap,Developed Markets,Developed Markets,0.0,1.0
+483,IGF,2493708000.0,Equity,Theme,Blended Development,Global,0.0,1.0
+484,EMB,11130807000.0,Fixed Income,Broad Sovereign,Emerging Markets,Emerging Markets,0.0,1.0
+485,MGC,1544452195.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+486,MGK,4018069237.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+487,MGV,2079651089.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+488,TAO,75348000.0,Real Estate,Real Estate,Emerging Markets,Asia-Pacific,0.0,1.0
+489,SCJ,471469000.0,Equity,Small Cap,Developed Markets,Asia-Pacific,0.0,1.0
+490,PBP,319642000.0,Multi Asset,Buywrite,Developed Markets,North America,0.0,0.0
+491,PIZ,242968000.0,Equity,Alpha-Seeking,Developed Markets,Developed Markets,0.0,1.0
+492,PIE,249858450.0,Equity,Alpha-Seeking,Emerging Markets,Emerging Markets,0.0,1.0
+493,MLN,151819000.0,Fixed Income,Broad Municipals,Developed Markets,North America,0.0,0.0
+494,KOL,84564000.0,Equity,Energy,Blended Development,Global,0.0,1.0
+495,BJK,24264480.0,Equity,Consumer Discretionary,Blended Development,Global,0.0,1.0
+496,GCC,168516906.0,Commodities,Broad Commodities,Blended Development,Global,0.0,1.0
+497,HAO,79119000.0,Equity,Small Cap,Emerging Markets,Asia-Pacific,0.0,1.0
+498,PGX,5062680000.0,Equity,Preferred Stock,Developed Markets,North America,0.0,1.0
+499,FUE,948600.0,Commodities,Grains,Blended Development,Global,0.0,0.0
+500,GRU,4516429.0,Commodities,Grains,Blended Development,Global,0.0,0.0
+501,GSY,1174680000.0,Fixed Income,Broad Debt,Blended Development,Global,0.0,0.0
+502,DWX,1161795507.0,Equity,High Dividend Yield,Blended Development,Global Ex-U.S.,0.0,1.0
+503,RWL,1023833465.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+504,RWJ,542425631.0,Equity,Small Cap,Developed Markets,North America,0.0,1.0
+505,RWK,399788567.0,Equity,Mid Cap,Developed Markets,North America,0.0,0.0
+506,SMB,219660800.0,Fixed Income,Broad Municipals,Developed Markets,North America,0.0,0.0
+507,EPI,1556100000.0,Equity,Broad Equity,Emerging Markets,Asia-Pacific,0.0,1.0
+508,UGA,47790000.0,Commodities,Gasoline,Blended Development,Global,0.0,1.0
+509,DGP,89877600.0,Commodities,Gold,Blended Development,Global,1.0,0.0
+510,DGZ,13618513.0,Commodities,Gold,Blended Development,Global,0.0,0.0
+511,DZZ,28119384.0,Commodities,Gold,Blended Development,Global,1.0,0.0
+512,PIN,273234000.0,Equity,Large Cap,Emerging Markets,Asia-Pacific,0.0,1.0
+513,WIP,620705406.0,Fixed Income,Inflation-Protected,Blended Development,Global Ex-U.S.,0.0,0.0
+514,CNY,11408332.0,Currency,Chinese Renminbi,Emerging Markets,Asia-Pacific,0.0,0.0
+515,INR,1219008.0,Currency,Indian Rupee,Emerging Markets,Asia-Pacific,0.0,0.0
+516,LTL,3290377.0,Equity,Telecommunications,Developed Markets,North America,1.0,0.0
+517,ACWX,3158100000.0,Equity,Broad Equity,Blended Development,Global Ex-U.S.,0.0,1.0
+518,ACWI,8682912000.0,Equity,Broad Equity,Blended Development,Global,0.0,1.0
+519,TUR,167832000.0,Equity,Broad Equity,Emerging Markets,Europe,0.0,1.0
+520,EIS,121155720.0,Equity,Broad Equity,Developed Markets,Middle East & Africa,0.0,0.0
+521,THD,526176000.0,Equity,Broad Equity,Emerging Markets,Asia-Pacific,0.0,1.0
+522,FUD,3455846.0,Commodities,Broad Agriculture,Blended Development,Global,0.0,0.0
+523,UAG,2955450.0,Commodities,Broad Agriculture,Blended Development,Global,0.0,0.0
+524,UBG,3321879.0,Commodities,Gold,Blended Development,Global,0.0,0.0
+525,UCI,93122395.0,Commodities,Broad Commodities,Blended Development,Global,0.0,0.0
+526,USV,1805100.0,Commodities,Silver,Blended Development,Global,0.0,0.0
+527,DAG,5004517.0,Commodities,Broad Agriculture,Blended Development,Global,1.0,0.0
+528,TAN,337908240.0,Equity,Theme,Blended Development,Global,0.0,1.0
+529,DDP,454803.0,Commodities,Broad Commodities,Blended Development,Global,0.0,0.0
+530,DYY,1648659.0,Commodities,Broad Commodities,Blended Development,Global,1.0,0.0
+531,PST,159596000.0,Fixed Income,Treasury,Developed Markets,North America,1.0,1.0
+532,TBT,2025689583.0,Fixed Income,Treasury,Developed Markets,North America,1.0,1.0
+533,DRR,15455633.0,Currency,Euro,Developed Markets,Europe,1.0,0.0
+534,URR,1465911.0,Currency,Euro,Developed Markets,Europe,1.0,0.0
+535,GRI,61096000.0,Real Estate,Real Estate,Blended Development,Global,0.0,0.0
+536,RWO,2651040000.0,Real Estate,Real Estate,Blended Development,Global,0.0,1.0
+537,EWX,484920000.0,Equity,Small Cap,Emerging Markets,Emerging Markets,0.0,1.0
+538,CYB,35406000.0,Currency,Chinese Renminbi,Emerging Markets,Asia-Pacific,0.0,1.0
+539,DDG,1595055.0,Equity,Energy,Developed Markets,North America,0.0,0.0
+540,SEF,36349500.0,Equity,Financials,Developed Markets,North America,0.0,1.0
+541,FRN,74169900.0,Equity,Broad Equity,Frontier Markets,Frontier Markets,0.0,0.0
+542,PNQI,619938000.0,Equity,Technology,Developed Markets,North America,0.0,1.0
+543,BDD,2413800.0,Commodities,Broad Industrials,Blended Development,Global,1.0,0.0
+544,BOM,790000.0,Commodities,Broad Industrials,Blended Development,Global,1.0,0.0
+545,BOS,720054.0,Commodities,Broad Industrials,Blended Development,Global,0.0,0.0
+546,DTO,17211681.0,Commodities,Crude Oil,Blended Development,Global,1.0,0.0
+547,OLO,8778850.0,Commodities,Crude Oil,Blended Development,Global,0.0,0.0
+548,SZO,1638273.0,Commodities,Crude Oil,Blended Development,Global,0.0,0.0
+549,FAN,82202525.0,Equity,Energy,Blended Development,Global,0.0,0.0
+550,LD,379540.0,Commodities,Lead,Blended Development,Global,0.0,0.0
+551,NIB,32128082.0,Commodities,Cocoa,Blended Development,Global,0.0,1.0
+552,ICLN,156746000.0,Equity,Theme,Blended Development,Global,0.0,0.0
+553,WOOD,510755400.0,Equity,Natural Resources,Blended Development,Global,0.0,1.0
+554,VT,12269776537.0,Equity,Broad Equity,Blended Development,Global,0.0,1.0
+555,AFK,61973000.0,Equity,Broad Equity,Emerging Markets,Middle East & Africa,0.0,0.0
+556,GULF,16919910.0,Equity,Broad Equity,Frontier Markets,Middle East & Africa,0.0,0.0
+557,AAXJ,4494072000.0,Equity,Broad Equity,Blended Development,Asia-Pacific,0.0,1.0
+558,HAP,109231110.0,Equity,Natural Resources,Blended Development,Global,0.0,0.0
+559,FLM,20023614.0,Equity,Industrials,Blended Development,Global,0.0,0.0
+560,AOK,469837500.0,Multi Asset,Target Risk,Blended Development,Global,0.0,0.0
+561,AOM,907944500.0,Multi Asset,Target Risk,Blended Development,Global,0.0,0.0
+562,AOR,1111920000.0,Multi Asset,Target Risk,Blended Development,Global,0.0,0.0
+563,AOA,885181500.0,Multi Asset,Target Risk,Blended Development,Global,0.0,0.0
+564,AGZ,431223000.0,Fixed Income,Agencies,Developed Markets,North America,0.0,0.0
+565,SUB,1537914000.0,Fixed Income,Broad Municipals,Developed Markets,North America,0.0,0.0
+566,TNA,1007997084.0,Equity,Small Cap,Developed Markets,North America,1.0,1.0
+567,SPXL,1486193314.0,Equity,Large Cap,Developed Markets,North America,1.0,1.0
+568,SPXS,212117439.0,Equity,Large Cap,Developed Markets,North America,1.0,1.0
+569,TZA,278473520.0,Equity,Small Cap,Developed Markets,North America,1.0,1.0
+570,ERX,488320649.0,Equity,Energy,Developed Markets,North America,1.0,1.0
+571,ERY,33551116.0,Equity,Energy,Developed Markets,North America,1.0,1.0
+572,FAS,2293667659.0,Equity,Financials,Developed Markets,North America,1.0,1.0
+573,FAZ,114162556.0,Equity,Financials,Developed Markets,North America,1.0,1.0
+574,RWW,59225371.0,Equity,Financials,Developed Markets,North America,0.0,0.0
+575,PSR,24225000.0,Real Estate,Real Estate,Developed Markets,North America,0.0,0.0
+576,SCO,150842578.0,Commodities,Crude Oil,Blended Development,Global,1.0,1.0
+577,EUO,219151500.0,Currency,Euro,Developed Markets,Europe,1.0,1.0
+578,ULE,8860500.0,Currency,Euro,Developed Markets,Europe,1.0,1.0
+579,YCL,2757375.0,Currency,Japanese Yen,Developed Markets,Asia-Pacific,1.0,1.0
+580,UCO,485853832.0,Commodities,Crude Oil,Blended Development,Global,1.0,1.0
+581,YCS,96082894.0,Currency,Japanese Yen,Developed Markets,Asia-Pacific,1.0,1.0
+582,GLL,32829998.0,Commodities,Gold,Blended Development,Global,1.0,1.0
+583,UGL,76245000.0,Commodities,Gold,Blended Development,Global,1.0,1.0
+584,ZSL,31317512.0,Commodities,Silver,Blended Development,Global,1.0,1.0
+585,AGQ,165304202.0,Commodities,Silver,Blended Development,Global,1.0,1.0
+586,DZK,29664074.0,Equity,Broad Equity,Developed Markets,Developed Markets,1.0,0.0
+587,EDC,237486124.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,1.0,1.0
+588,EDZ,85091399.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,1.0,1.0
+589,DPK,3490221.0,Equity,Broad Equity,Developed Markets,Developed Markets,1.0,1.0
+590,TECL,866512500.0,Equity,Technology,Developed Markets,North America,1.0,1.0
+591,TECS,16792180.0,Equity,Technology,Developed Markets,North America,1.0,1.0
+592,MIDU,75579125.0,Equity,Mid Cap,Developed Markets,North America,1.0,1.0
+593,MIDZ,2747189.0,Equity,Mid Cap,Developed Markets,North America,1.0,1.0
+594,MBG,233709000.0,Fixed Income,Agency MBS,Developed Markets,North America,0.0,0.0
+595,BWZ,272745000.0,Fixed Income,Broad Sovereign,Developed Markets,Developed Markets,0.0,0.0
+596,IDX,49512000.0,Equity,Broad Equity,Emerging Markets,Asia-Pacific,0.0,0.0
+597,ISHG,86572500.0,Fixed Income,Broad Sovereign,Developed Markets,Developed Markets,0.0,0.0
+598,IGOV,1034754000.0,Fixed Income,Broad Sovereign,Developed Markets,Developed Markets,0.0,1.0
+599,AMJ,3273690000.0,Equity,Energy,Developed Markets,North America,0.0,1.0
+600,HYD,2437456000.0,Fixed Income,High Yield,Developed Markets,North America,0.0,1.0
+601,GXG,106416504.0,Equity,Broad Equity,Emerging Markets,Latin America,0.0,1.0
+602,SPIB,3297755391.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+603,SPLB,316628635.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+604,QAI,1134790000.0,Multi Asset,Global Macro,Blended Development,Global,0.0,0.0
+605,VSS,4749599748.0,Equity,Small Cap,Blended Development,Global Ex-U.S.,0.0,1.0
+606,CWB,4440975000.0,Fixed Income,Convertibles,Developed Markets,North America,0.0,1.0
+607,TYD,5880000.0,Fixed Income,Treasury,Developed Markets,North America,1.0,1.0
+608,TMF,99876000.0,Fixed Income,Treasury,Developed Markets,North America,1.0,1.0
+609,TYO,23939750.0,Fixed Income,Treasury,Developed Markets,North America,1.0,1.0
+610,TMV,421212523.0,Fixed Income,Treasury,Developed Markets,North America,1.0,1.0
+611,CEW,41670710.0,Currency,Emerging Markets,Emerging Markets,Emerging Markets,0.0,1.0
+612,BRF,74315000.0,Equity,Small Cap,Emerging Markets,Latin America,0.0,1.0
+613,TUZ,84812362.0,Fixed Income,Treasury,Developed Markets,North America,0.0,0.0
+614,EET,53722500.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,1.0,1.0
+615,EFO,5200000.0,Equity,Broad Equity,Developed Markets,Developed Markets,1.0,0.0
+616,EZJ,4193650.0,Equity,Broad Equity,Developed Markets,Asia-Pacific,1.0,1.0
+617,XPP,39554250.0,Equity,Broad Equity,Emerging Markets,Asia-Pacific,1.0,1.0
+618,MCRO,6565000.0,Multi Asset,Global Macro,Blended Development,Global,0.0,0.0
+619,EMIF,36517000.0,Equity,Theme,Emerging Markets,Emerging Markets,0.0,0.0
+620,EPV,18036354.0,Equity,Broad Equity,Developed Markets,Europe,1.0,1.0
+621,BZQ,154722585.0,Equity,Broad Equity,Emerging Markets,Latin America,1.0,1.0
+622,EPU,179304500.0,Equity,Broad Equity,Emerging Markets,Latin America,0.0,0.0
+623,SPXU,1280535188.0,Equity,Large Cap,Developed Markets,North America,1.0,1.0
+624,UPRO,622836000.0,Equity,Large Cap,Developed Markets,North America,1.0,1.0
+625,QABA,331782110.0,Equity,Financials,Developed Markets,North America,0.0,1.0
+626,EQL,172122460.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+627,CSM,837259500.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+628,DRN,84806500.0,Real Estate,Real Estate,Developed Markets,North America,1.0,1.0
+629,DRV,11119766.0,Real Estate,Real Estate,Developed Markets,North America,1.0,1.0
+630,SIVR,290301000.0,Commodities,Silver,Blended Development,Global,0.0,1.0
+631,VNM,390224000.0,Equity,Broad Equity,Frontier Markets,Asia-Pacific,0.0,0.0
+632,GXF,33663980.0,Equity,Broad Equity,Developed Markets,Europe,0.0,0.0
+633,TBF,653235000.0,Fixed Income,Treasury,Developed Markets,North America,0.0,1.0
+634,STPZ,874666800.0,Fixed Income,TIPS,Developed Markets,North America,0.0,0.0
+635,LTPZ,251085600.0,Fixed Income,TIPS,Developed Markets,North America,0.0,1.0
+636,TIPZ,52609635.0,Fixed Income,TIPS,Developed Markets,North America,0.0,0.0
+637,SGOL,1059021000.0,Commodities,Gold,Blended Development,Global,0.0,1.0
+638,PSK,514173500.0,Equity,Preferred Stock,Developed Markets,North America,0.0,0.0
+639,IWL,146126255.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+640,IWX,310317120.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+641,IWY,1151208000.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+642,BBRC,64316735.0,Equity,Broad Equity,Blended Development,Global Ex-U.S.,0.0,0.0
+643,CPI,46203960.0,Multi Asset,Global Macro,Blended Development,Global,0.0,0.0
+644,GRES,235984000.0,Equity,Natural Resources,Blended Development,Global,0.0,0.0
+645,DJCI,81078093.0,Commodities,Broad Commodities,Blended Development,Global,0.0,0.0
+646,ZROZ,154090164.0,Fixed Income,Treasury,Developed Markets,North America,0.0,1.0
+647,SCHB,12827231500.0,Equity,Broad Equity,Developed Markets,North America,0.0,1.0
+648,SCHX,13327691000.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+649,SCHF,15074059000.0,Equity,Broad Equity,Developed Markets,Developed Markets,0.0,1.0
+650,SCHA,7985120000.0,Equity,Small Cap,Developed Markets,North America,0.0,1.0
+651,GDXJ,3718657118.0,Equity,Basic Materials,Blended Development,Global,0.0,1.0
+652,MINT,8990845800.0,Fixed Income,Investment Grade,Blended Development,Global,0.0,0.0
+653,GRID,34439608.0,Equity,Theme,Blended Development,Global,0.0,0.0
+654,MNA,543951000.0,Equity,Long/Short,Blended Development,Global,0.0,0.0
+655,BAB,906672000.0,Fixed Income,Build America Bonds,Developed Markets,North America,0.0,0.0
+656,INDY,921492000.0,Equity,Large Cap,Emerging Markets,Asia-Pacific,0.0,1.0
+657,UNL,6149000.0,Commodities,Natural Gas,Blended Development,Global,0.0,1.0
+658,VGLT,619238603.0,Fixed Income,Broad Market,Developed Markets,North America,0.0,0.0
+659,VCLT,2123222687.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,1.0
+660,VGSH,2154660730.0,Fixed Income,Broad Market,Developed Markets,North America,0.0,0.0
+661,VGIT,1693352089.0,Fixed Income,Broad Market,Developed Markets,North America,0.0,0.0
+662,VMBS,5189568309.0,Fixed Income,Agency MBS,Developed Markets,North America,0.0,0.0
+663,VCIT,18190874968.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,1.0
+664,VCSH,20990838962.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+665,MUNI,270384000.0,Fixed Income,Broad Municipals,Developed Markets,North America,0.0,1.0
+666,CHIQ,301811789.0,Equity,Consumer Discretionary,Emerging Markets,Asia-Pacific,0.0,1.0
+667,CHII,2810759.0,Equity,Industrials,Emerging Markets,Asia-Pacific,0.0,0.0
+668,YINN,228000309.0,Equity,Broad Equity,Emerging Markets,Asia-Pacific,1.0,1.0
+669,LBJ,10745204.0,Equity,Broad Equity,Emerging Markets,Latin America,1.0,1.0
+670,YANG,53822639.0,Equity,Broad Equity,Emerging Markets,Asia-Pacific,1.0,1.0
+671,ILTB,222487500.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+672,IGLB,0.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,1.0
+673,CQQQ,337272000.0,Equity,Technology,Emerging Markets,Asia-Pacific,0.0,0.0
+674,CHIX,53106673.0,Equity,Financials,Emerging Markets,Asia-Pacific,0.0,1.0
+675,SCHG,6294985000.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+676,SCHV,4479706500.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+677,CHIE,1912143.0,Equity,Energy,Emerging Markets,Asia-Pacific,0.0,0.0
+678,SPSB,4128904000.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+679,HEDJ,6252630000.0,Equity,Broad Equity,Developed Markets,Developed Markets,0.0,1.0
+680,PALL,240960000.0,Commodities,Palladium,Blended Development,Global,0.0,0.0
+681,PPLT,459225000.0,Commodities,Platinum,Blended Development,Global,0.0,0.0
+682,CHIM,4417465.0,Equity,Basic Materials,Emerging Markets,Asia-Pacific,0.0,0.0
+683,SCHE,4809182000.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,1.0
+684,SCHC,1981396000.0,Equity,Small Cap,Developed Markets,Developed Markets,0.0,1.0
+685,UST,44616500.0,Fixed Income,Treasury,Developed Markets,North America,1.0,1.0
+686,UBT,26598750.0,Fixed Income,Treasury,Developed Markets,North America,1.0,1.0
+687,EUFN,2085866500.0,Equity,Financials,Developed Markets,Europe,0.0,1.0
+688,SMMU,67496800.0,Fixed Income,Broad Municipals,Developed Markets,North America,0.0,0.0
+689,URTY,181526000.0,Equity,Small Cap,Developed Markets,North America,1.0,1.0
+690,TQQQ,1613952000.0,Equity,Large Cap,Developed Markets,North America,1.0,1.0
+691,UMDD,43207125.0,Equity,Mid Cap,Developed Markets,North America,1.0,1.0
+692,SMDD,1723246.0,Equity,Mid Cap,Developed Markets,North America,1.0,0.0
+693,SDOW,135933394.0,Equity,Large Cap,Developed Markets,North America,1.0,1.0
+694,SRTY,42600181.0,Equity,Small Cap,Developed Markets,North America,1.0,1.0
+695,UDOW,752420000.0,Equity,Large Cap,Developed Markets,North America,1.0,1.0
+696,SQQQ,331315134.0,Equity,Large Cap,Developed Markets,North America,1.0,1.0
+697,EGPT,64556710.0,Equity,Broad Equity,Emerging Markets,Middle East & Africa,0.0,0.0
+698,PCEF,704829000.0,Multi Asset,Target Outcome,Blended Development,Global,0.0,1.0
+699,INDL,90806874.0,Equity,Broad Equity,Emerging Markets,Asia-Pacific,1.0,1.0
+700,SOXS,31847224.0,Equity,Technology,Developed Markets,North America,1.0,1.0
+701,SOXL,1017625651.0,Equity,Technology,Developed Markets,North America,1.0,1.0
+702,FTAG,6384484.0,Equity,Natural Resources,Blended Development,Global,0.0,1.0
+703,FTRI,8910745.0,Equity,Natural Resources,Blended Development,Global,0.0,1.0
+704,REK,10979360.0,Real Estate,Real Estate,Developed Markets,North America,0.0,1.0
+705,SBM,1720000.0,Equity,Basic Materials,Developed Markets,North America,0.0,0.0
+706,YXI,5958000.0,Equity,Large Cap,Emerging Markets,Asia-Pacific,0.0,1.0
+707,MLPI,1693165650.0,Equity,Energy,Developed Markets,North America,0.0,1.0
+708,BIB,452250000.0,Equity,Health Care,Developed Markets,North America,1.0,1.0
+709,BIS,24790218.0,Equity,Health Care,Developed Markets,North America,1.0,1.0
+710,PSCD,79144035.0,Equity,Consumer Discretionary,Developed Markets,North America,0.0,0.0
+711,PSCC,54350010.0,Equity,Consumer Staples,Developed Markets,North America,0.0,0.0
+712,PSCE,59385500.0,Equity,Energy,Developed Markets,North America,0.0,0.0
+713,PSCF,238874000.0,Equity,Financials,Developed Markets,North America,0.0,0.0
+714,PSCH,561680000.0,Equity,Health Care,Developed Markets,North America,0.0,1.0
+715,PSCI,120697500.0,Equity,Industrials,Developed Markets,North America,0.0,0.0
+716,PSCM,33622500.0,Equity,Basic Materials,Developed Markets,North America,0.0,0.0
+717,PSCT,436917000.0,Equity,Technology,Developed Markets,North America,0.0,0.0
+718,PSCU,51077430.0,Equity,Utilities,Developed Markets,North America,0.0,0.0
+719,BICK,216132052.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,0.0
+720,COPX,71629551.0,Equity,Basic Materials,Blended Development,Global,0.0,0.0
+721,SIL,334406894.0,Equity,Basic Materials,Blended Development,Global,0.0,1.0
+722,UBR,15071279.0,Equity,Broad Equity,Emerging Markets,Latin America,1.0,0.0
+723,UPV,10957120.0,Equity,Broad Equity,Developed Markets,Europe,1.0,0.0
+724,EUSA,169774500.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+725,EIRL,64008000.0,Equity,Broad Equity,Developed Markets,Europe,0.0,0.0
+726,EIDO,445116000.0,Equity,Broad Equity,Emerging Markets,Asia-Pacific,0.0,1.0
+727,EPOL,314113500.0,Equity,Broad Equity,Emerging Markets,Europe,0.0,1.0
+728,BNO,105648000.0,Commodities,Crude Oil,Blended Development,Global,0.0,1.0
+729,PICB,141426000.0,Fixed Income,Investment Grade,Developed Markets,Developed Markets,0.0,0.0
+730,CORN,66925314.0,Commodities,Corn,Blended Development,Global,0.0,1.0
+731,SEA,99168000.0,Equity,Theme,Blended Development,Global,0.0,1.0
+732,SCIN,22159881.0,Equity,Small Cap,Emerging Markets,Asia-Pacific,0.0,0.0
+733,MLPG,9839280.0,Equity,Energy,Developed Markets,North America,0.0,0.0
+734,RETL,31018573.0,Equity,Consumer Discretionary,Developed Markets,North America,1.0,1.0
+735,GASL,35570401.0,Equity,Energy,Developed Markets,North America,1.0,1.0
+736,AADR,234311000.0,Equity,Broad Equity,Blended Development,Global Ex-U.S.,0.0,0.0
+737,LIT,989723427.0,Equity,Basic Materials,Blended Development,Global,0.0,1.0
+738,EMLC,4926834000.0,Fixed Income,Broad Sovereign,Emerging Markets,Emerging Markets,0.0,1.0
+739,SCHR,1362295000.0,Fixed Income,Treasury,Developed Markets,North America,0.0,0.0
+740,SCHO,2348670000.0,Fixed Income,Treasury,Developed Markets,North America,0.0,0.0
+741,SCHP,3363984000.0,Fixed Income,TIPS,Developed Markets,North America,0.0,1.0
+742,DLBS,20987284.0,Fixed Income,Treasury,Developed Markets,North America,0.0,0.0
+743,DTUL,3917623.0,Fixed Income,Treasury,Developed Markets,North America,0.0,0.0
+744,DTUS,10312113.0,Fixed Income,Treasury,Developed Markets,North America,0.0,0.0
+745,DTYL,4995748.0,Fixed Income,Treasury,Developed Markets,North America,0.0,0.0
+746,DTYS,67036872.0,Fixed Income,Treasury,Developed Markets,North America,0.0,0.0
+747,FLAT,3005228.0,Fixed Income,Spreads,Developed Markets,North America,0.0,0.0
+748,STPP,4028199.0,Fixed Income,Spreads,Developed Markets,North America,0.0,0.0
+749,USCI,600526000.0,Commodities,Broad Commodities,Blended Development,Global,0.0,0.0
+750,ELD,170300000.0,Fixed Income,Broad Debt,Emerging Markets,Emerging Markets,0.0,1.0
+751,INCO,130922437.0,Equity,Consumer Discretionary,Emerging Markets,Asia-Pacific,0.0,0.0
+752,INXX,40070437.0,Equity,Theme,Emerging Markets,Asia-Pacific,0.0,0.0
+753,SCIF,196357584.0,Equity,Small Cap,Emerging Markets,Asia-Pacific,0.0,1.0
+754,AMLP,10099506849.0,Equity,Energy,Developed Markets,North America,0.0,1.0
+755,VQT,40125793.0,Multi Asset,Long/Short,Developed Markets,North America,0.0,0.0
+756,ENZL,135052500.0,Equity,Broad Equity,Developed Markets,Asia-Pacific,0.0,1.0
+757,VOO,96565598888.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+758,VIOO,908851250.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+759,VOOV,860065500.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+760,VOOG,2247446250.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+761,IVOO,920044000.0,Equity,Mid Cap,Developed Markets,North America,0.0,0.0
+762,IVOG,1115331000.0,Equity,Mid Cap,Developed Markets,North America,0.0,0.0
+763,IVOV,719594685.0,Equity,Mid Cap,Developed Markets,North America,0.0,0.0
+764,VIOG,391860000.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+765,VIOV,315483750.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+766,GNR,1504457500.0,Equity,Natural Resources,Blended Development,Global,0.0,1.0
+767,ECON,660841794.0,Equity,Consumer Discretionary,Emerging Markets,Emerging Markets,0.0,1.0
+768,CORP,890841600.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+769,VONE,942825250.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+770,VTWO,1493251500.0,Equity,Small Cap,Developed Markets,North America,0.0,1.0
+771,VONV,1403312750.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+772,VTHR,389948500.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+773,VONG,1886123870.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+774,VTWV,204653750.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+775,VTWG,282051000.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+776,ECNS,20700000.0,Equity,Small Cap,Emerging Markets,Asia-Pacific,0.0,1.0
+777,EPHE,132414000.0,Equity,Broad Equity,Emerging Markets,Asia-Pacific,0.0,0.0
+778,EWZS,51524000.0,Equity,Small Cap,Emerging Markets,Latin America,0.0,0.0
+779,PEK,52390395.0,Equity,Broad Equity,Emerging Markets,Asia-Pacific,0.0,1.0
+780,GLTR,350640000.0,Commodities,Broad Precious Metals,Blended Development,Global,0.0,0.0
+781,REMX,164244727.0,Equity,Basic Materials,Blended Development,Global,0.0,1.0
+782,VNQI,5709061216.0,Real Estate,Real Estate,Blended Development,Global Ex-U.S.,0.0,1.0
+783,GOEX,37045052.0,Equity,Basic Materials,Blended Development,Global,0.0,1.0
+784,URA,355670674.0,Equity,Energy,Blended Development,Global,0.0,1.0
+785,ERUS,578592000.0,Equity,Broad Equity,Emerging Markets,Europe,0.0,1.0
+786,NORW,176743743.0,Equity,Broad Equity,Developed Markets,Europe,0.0,0.0
+787,TVIX,1567392676.0,Multi Asset,Volatility,Developed Markets,North America,1.0,0.0
+788,VIIX,4893355.0,Multi Asset,Volatility,Developed Markets,North America,0.0,1.0
+789,ZIV,137374440.0,Multi Asset,Volatility,Developed Markets,North America,0.0,0.0
+790,HYLD,164249500.0,Fixed Income,High Yield,Developed Markets,North America,0.0,1.0
+791,STIP,1750984250.0,Fixed Income,TIPS,Developed Markets,North America,0.0,0.0
+792,KBWP,73449350.0,Equity,Financials,Developed Markets,North America,0.0,0.0
+793,KBWD,313682500.0,Equity,Financials,Developed Markets,North America,0.0,0.0
+794,KBWY,385654500.0,Real Estate,Real Estate,Developed Markets,North America,0.0,0.0
+795,RALS,11812938.0,Equity,Long/Short,Developed Markets,North America,0.0,0.0
+796,EWMC,112985400.0,Equity,Mid Cap,Developed Markets,North America,0.0,0.0
+797,EWSC,33739970.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+798,EWEM,12732000.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,0.0
+799,DUST,464615858.0,Equity,Basic Materials,Blended Development,Global,1.0,1.0
+800,NUGT,633102178.0,Equity,Basic Materials,Blended Development,Global,1.0,1.0
+801,VIXM,16212628.0,Multi Asset,Volatility,Developed Markets,North America,0.0,1.0
+802,VIXY,58798684.0,Multi Asset,Volatility,Developed Markets,North America,0.0,1.0
+803,WTMF,170478000.0,Multi Asset,Long/Short,Blended Development,Global,0.0,0.0
+804,SCHH,4320090000.0,Real Estate,Real Estate,Developed Markets,North America,0.0,1.0
+805,SCHM,4810659000.0,Equity,Mid Cap,Developed Markets,North America,0.0,1.0
+806,HDGE,130300750.0,Equity,Broad Equity,Developed Markets,North America,0.0,1.0
+807,XHE,305970000.0,Equity,Health Care,Developed Markets,North America,0.0,0.0
+808,XTN,244769000.0,Equity,Industrials,Developed Markets,North America,0.0,0.0
+809,XTL,148627635.0,Equity,Telecommunications,Developed Markets,North America,0.0,0.0
+810,VXUS,11037901659.0,Equity,Broad Equity,Blended Development,Global Ex-U.S.,0.0,1.0
+811,ASEA,19350412.0,Equity,Broad Equity,Blended Development,Asia-Pacific,0.0,0.0
+812,FONE,14850099.0,Equity,Technology,Blended Development,Global,0.0,0.0
+813,EBND,688797000.0,Fixed Income,Broad Sovereign,Emerging Markets,Emerging Markets,0.0,1.0
+814,EDIV,442025500.0,Equity,High Dividend Yield,Emerging Markets,Emerging Markets,0.0,1.0
+815,ARGT,154702435.0,Equity,Broad Equity,Frontier Markets,Latin America,0.0,1.0
+816,BKLN,8259513999.999998,Fixed Income,Loans,Developed Markets,North America,0.0,1.0
+817,MLPY,6422081.0,Equity,Energy,Developed Markets,North America,0.0,0.0
+818,SJB,135858000.0,Fixed Income,High Yield,Developed Markets,North America,0.0,1.0
+819,CROP,11144000.0,Equity,Natural Resources,Blended Development,Global,0.0,1.0
+820,SAGG,3213612.0,Fixed Income,Broad Debt,Developed Markets,North America,0.0,0.0
+821,TYNS,1452259.0,Fixed Income,Treasury,Developed Markets,North America,0.0,0.0
+822,TYBS,5321771.0,Fixed Income,Treasury,Developed Markets,North America,0.0,0.0
+823,MCHI,3151104000.0,Equity,Broad Equity,Emerging Markets,Asia-Pacific,0.0,1.0
+824,HDV,6537262000.0,Equity,High Dividend Yield,Developed Markets,North America,0.0,1.0
+825,TBX,45104163.0,Fixed Income,Treasury,Developed Markets,North America,0.0,0.0
+826,CBND,18492000.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+827,UJB,3338500.0,Fixed Income,High Yield,Developed Markets,North America,1.0,0.0
+828,HYMB,512239000.0,Fixed Income,High Yield,Developed Markets,North America,0.0,1.0
+829,RSXJ,38398669.0,Equity,Small Cap,Emerging Markets,Europe,0.0,0.0
+830,FPA,54654312.0,Equity,Broad Equity,Developed Markets,Asia-Pacific,0.0,0.0
+831,FBZ,6675262.0,Equity,Broad Equity,Emerging Markets,Latin America,0.0,0.0
+832,FCA,9597055.0,Equity,Broad Equity,Emerging Markets,Asia-Pacific,0.0,1.0
+833,FDT,1214810880.0,Equity,Broad Equity,Developed Markets,Developed Markets,0.0,0.0
+834,FEM,608229050.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,1.0
+835,FEP,864857578.0,Equity,Broad Equity,Blended Development,Europe,0.0,0.0
+836,FJP,162706614.0,Equity,Broad Equity,Developed Markets,Asia-Pacific,0.0,0.0
+837,FLN,23738037.0,Equity,Broad Equity,Emerging Markets,Latin America,0.0,0.0
+838,FKO,2545891.0,Equity,Broad Equity,Developed Markets,Asia-Pacific,0.0,0.0
+839,FNY,170903092.0,Equity,Mid Cap,Developed Markets,North America,0.0,0.0
+840,FNK,50118824.0,Equity,Mid Cap,Developed Markets,North America,0.0,0.0
+841,FYC,226156604.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+842,FYT,70511838.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+843,BCM,56076047.0,Commodities,Broad Commodities,Blended Development,Global,0.0,0.0
+844,OLEM,3771889.0,Commodities,Crude Oil,Blended Development,Global,0.0,0.0
+845,FLTR,377268000.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+846,BDCS,87072273.0,Equity,Financials,Developed Markets,North America,0.0,0.0
+847,SPHB,485887000.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+848,SPLV,7365540000.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+849,CARZ,18625074.0,Equity,Industrials,Blended Development,Global,0.0,0.0
+850,FMK,20399574.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+851,EMAG,14139090.0,Fixed Income,Broad Debt,Emerging Markets,Emerging Markets,0.0,0.0
+852,BDCL,245803350.0,Equity,Financials,Developed Markets,North America,1.0,0.0
+853,RUSS,20121980.0,Equity,Broad Equity,Emerging Markets,Europe,1.0,1.0
+854,RUSL,154781801.0,Equity,Broad Equity,Emerging Markets,Europe,1.0,1.0
+855,SOIL,15767609.0,Equity,Natural Resources,Blended Development,Global,0.0,0.0
+856,SDIV,935572146.0,Equity,High Dividend Yield,Blended Development,Global,0.0,1.0
+857,DBEM,210046464.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,0.0
+858,DBGR,35142413.0,Equity,Broad Equity,Developed Markets,Europe,0.0,0.0
+859,DBEF,6242650776.0,Equity,Broad Equity,Developed Markets,Developed Markets,0.0,1.0
+860,DBJP,1274295152.0,Equity,Broad Equity,Developed Markets,Asia-Pacific,0.0,1.0
+861,FLOT,9122376000.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+862,ROOF,87584000.0,Real Estate,Real Estate,Developed Markets,North America,0.0,0.0
+863,CURE,244800522.0,Equity,Health Care,Developed Markets,North America,1.0,1.0
+864,HYS,1643665500.0,Fixed Income,High Yield,Developed Markets,North America,0.0,1.0
+865,PXLG,235248000.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+866,PXLV,112404000.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+867,FWDB,18464228.0,Fixed Income,Broad Debt,Blended Development,Global,0.0,0.0
+868,SKYY,1591887613.0,Equity,Technology,Blended Development,Global,0.0,1.0
+869,DFVL,4585248.0,Fixed Income,Treasury,Developed Markets,North America,0.0,0.0
+870,DFVS,1353240.0,Fixed Income,Treasury,Developed Markets,North America,0.0,0.0
+871,XMPT,93594000.0,Fixed Income,Broad Municipals,Developed Markets,North America,1.0,0.0
+872,HDG,37601355.0,Multi Asset,Global Macro,Blended Development,Global,0.0,0.0
+873,SCHZ,5018000000.0,Fixed Income,Broad Debt,Developed Markets,North America,0.0,0.0
+874,HILO,10282339.0,Equity,High Dividend Yield,Emerging Markets,Emerging Markets,0.0,0.0
+875,EEMS,296055000.0,Equity,Small Cap,Emerging Markets,Emerging Markets,0.0,0.0
+876,MORT,138968000.0,Real Estate,Real Estate,Developed Markets,North America,0.0,0.0
+877,XVZ,13329428.0,Multi Asset,Volatility,Developed Markets,North America,0.0,0.0
+878,MOM,8587145.0,Equity,Long/Short,Developed Markets,North America,0.0,0.0
+879,SIZ,2005010.0,Equity,Long/Short,Developed Markets,North America,0.0,0.0
+880,CHEP,1147505.0,Equity,Long/Short,Developed Markets,North America,0.0,0.0
+881,BTAL,9013500.0,Equity,Long/Short,Developed Markets,North America,0.0,0.0
+882,PFIG,112153860.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+883,TILT,1308001210.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+884,GUNR,5570361534.0,Equity,Natural Resources,Blended Development,Global,0.0,0.0
+885,TDTT,2104739220.0,Fixed Income,TIPS,Developed Markets,North America,0.0,0.0
+886,TDTF,903496524.0,Fixed Income,TIPS,Developed Markets,North America,0.0,0.0
+887,WEAT,66659401.0,Commodities,Wheat,Blended Development,Global,0.0,1.0
+888,SOYB,14175063.0,Commodities,Soybeans,Blended Development,Global,0.0,1.0
+889,CANE,9018027.0,Commodities,Sugar,Blended Development,Global,0.0,0.0
+890,XSW,76925000.0,Equity,Technology,Developed Markets,North America,0.0,0.0
+891,XHS,105901460.0,Equity,Health Care,Developed Markets,North America,0.0,0.0
+892,XAR,1477882500.0,Equity,Industrials,Developed Markets,North America,0.0,1.0
+893,FXCH,7150000.0,Currency,Chinese Renminbi,Emerging Markets,Asia-Pacific,0.0,0.0
+894,SVXY,2791646000.0,Multi Asset,Volatility,Developed Markets,North America,0.0,1.0
+895,UVXY,910456903.0,Multi Asset,Volatility,Developed Markets,North America,1.0,1.0
+896,BOIL,34848554.0,Commodities,Natural Gas,Blended Development,Global,1.0,1.0
+897,KOLD,4394086.0,Commodities,Natural Gas,Blended Development,Global,1.0,1.0
+898,DGLD,21597620.0,Commodities,Gold,Blended Development,Global,1.0,0.0
+899,DSLV,41069929.0,Commodities,Silver,Blended Development,Global,1.0,0.0
+900,UGLD,83838163.0,Commodities,Gold,Blended Development,Global,1.0,0.0
+901,USLV,166604326.0,Commodities,Silver,Blended Development,Global,1.0,0.0
+902,LEMB,368940000.0,Fixed Income,Broad Sovereign,Emerging Markets,Emerging Markets,0.0,1.0
+903,USMV,15515938000.0,Equity,Broad Equity,Developed Markets,North America,0.0,1.0
+904,EFAV,8705939000.0,Equity,Broad Equity,Developed Markets,Developed Markets,0.0,1.0
+905,ACWV,3589550000.0,Equity,Broad Equity,Blended Development,Global,0.0,1.0
+906,EEMV,4522210000.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,1.0
+907,SCHD,8453954000.0,Equity,High Dividend Yield,Developed Markets,North America,0.0,1.0
+908,KBWB,1184611500.0,Equity,Financials,Developed Markets,North America,0.0,1.0
+909,KBWR,174732975.0,Equity,Financials,Developed Markets,North America,0.0,0.0
+910,SOCL,186269063.0,Equity,Technology,Blended Development,Global,0.0,1.0
+911,CPER,9741050.0,Commodities,Copper,Blended Development,Global,0.0,0.0
+912,IPFF,86485000.0,Equity,Preferred Stock,Developed Markets,Developed Markets,0.0,1.0
+913,SPTS,341388000.0,Fixed Income,Treasury,Developed Markets,North America,0.0,0.0
+914,FLRN,2684016000.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+915,GREK,375016575.0,Equity,Broad Equity,Developed Markets,Europe,0.0,1.0
+916,KNOW,236299421.0,Equity,Alpha-Seeking,Developed Markets,North America,0.0,0.0
+917,BBH,486443500.0,Equity,Health Care,Developed Markets,Global,0.0,1.0
+918,OIH,1609354834.0,Equity,Energy,Developed Markets,Global,0.0,1.0
+919,PPH,281060239.0,Equity,Health Care,Developed Markets,Global,0.0,1.0
+920,RTH,79635376.0,Equity,Consumer Discretionary,Developed Markets,Global,0.0,1.0
+921,SMH,1366813974.0,Equity,Technology,Developed Markets,Global,0.0,1.0
+922,URTH,561993000.0,Equity,Broad Equity,Developed Markets,Developed Markets,0.0,1.0
+923,RINF,8865060.0,Fixed Income,Spreads,Developed Markets,North America,0.0,0.0
+924,ENOR,43620150.0,Equity,Broad Equity,Developed Markets,Europe,0.0,0.0
+925,EDEN,49236750.0,Equity,Broad Equity,Developed Markets,Europe,0.0,0.0
+926,EFNL,46233000.0,Equity,Broad Equity,Developed Markets,Europe,0.0,0.0
+927,EWGS,64367520.0,Equity,Small Cap,Developed Markets,Europe,0.0,0.0
+928,EWUS,21040000.0,Equity,Small Cap,Developed Markets,Europe,0.0,0.0
+929,EELV,655820000.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,0.0
+930,IDLV,590422000.0,Equity,Broad Equity,Developed Markets,Developed Markets,0.0,0.0
+931,RING,242923500.0,Equity,Basic Materials,Blended Development,Global,0.0,1.0
+932,PICK,585000000.0,Equity,Basic Materials,Blended Development,Global,0.0,1.0
+933,FILL,38053440.0,Equity,Energy,Blended Development,Global,0.0,0.0
+934,VEGI,32571000.0,Equity,Natural Resources,Blended Development,Global,0.0,0.0
+935,SLVP,51925000.0,Equity,Basic Materials,Blended Development,Global,0.0,0.0
+936,INDA,4989229000.0,Equity,Broad Equity,Emerging Markets,Asia-Pacific,0.0,1.0
+937,DGAZ,167436550.0,Commodities,Natural Gas,Blended Development,Global,1.0,0.0
+938,UGAZ,420246630.0,Commodities,Natural Gas,Blended Development,Global,1.0,0.0
+939,SMIN,242991000.0,Equity,Small Cap,Emerging Markets,Asia-Pacific,0.0,0.0
+940,EEMA,542000000.0,Equity,Broad Equity,Emerging Markets,Asia-Pacific,0.0,0.0
+941,QLTA,125725000.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+942,CMBS,248208000.0,Fixed Income,Asset-backed,Developed Markets,North America,0.0,0.0
+943,GOVT,5455164000.0,Fixed Income,Treasury,Developed Markets,North America,0.0,0.0
+944,GNMA,112949460.0,Fixed Income,Agency MBS,Developed Markets,North America,0.0,0.0
+945,FRAK,84447000.0,Equity,Energy,Blended Development,Global,0.0,1.0
+946,FAUS,1612064.0,Equity,Broad Equity,Blended Development,Asia-Pacific,0.0,0.0
+947,FKU,17305637.0,Equity,Broad Equity,Developed Markets,Europe,0.0,0.0
+948,NFTY,1733314.0,Equity,Large Cap,Emerging Markets,Asia-Pacific,0.0,0.0
+949,FHK,3619072.0,Equity,Broad Equity,Developed Markets,Asia-Pacific,0.0,0.0
+950,FSZ,253183103.0,Equity,Broad Equity,Developed Markets,Europe,0.0,0.0
+951,FGM,251515835.0,Equity,Broad Equity,Developed Markets,Europe,0.0,0.0
+952,FCAN,6375051.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+953,FDTS,14560083.0,Equity,Small Cap,Developed Markets,Developed Markets,0.0,0.0
+954,FEMS,294408772.0,Equity,Small Cap,Emerging Markets,Emerging Markets,0.0,0.0
+955,DVYA,38107710.0,Equity,High Dividend Yield,Blended Development,Asia-Pacific,0.0,0.0
+956,DVYE,433384000.0,Equity,High Dividend Yield,Emerging Markets,Emerging Markets,0.0,0.0
+957,EEMO,29664000.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,0.0
+958,IDMO,2686000.0,Equity,Broad Equity,Developed Markets,Global Ex-U.S.,0.0,0.0
+959,ACIM,105625000.0,Equity,Broad Equity,Blended Development,Global,0.0,0.0
+960,BOND,2115770800.0,Fixed Income,Broad Debt,Blended Development,Global,0.0,1.0
+961,EMCB,48377000.0,Fixed Income,Broad Market,Emerging Markets,Emerging Markets,0.0,0.0
+962,YMLP,54953479.0,Equity,Energy,Developed Markets,North America,0.0,1.0
+963,SJNK,3702785000.0,Fixed Income,High Yield,Developed Markets,North America,0.0,1.0
+964,QQQE,170136095.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+965,TTT,101137799.0,Fixed Income,Treasury,Developed Markets,North America,1.0,1.0
+966,BSCJ,1071918000.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+967,BSCK,1127763000.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+968,TAGS,1505928.0,Commodities,Broad Agriculture,Blended Development,Global,0.0,0.0
+969,IHY,166056000.0,Fixed Income,High Yield,Blended Development,Global Ex-U.S.,0.0,1.0
+970,HYXU,106520000.0,Fixed Income,High Yield,Developed Markets,Developed Markets,0.0,0.0
+971,EMHY,533686500.0,Fixed Income,High Yield,Emerging Markets,Emerging Markets,0.0,0.0
+972,GHYG,243279120.0,Fixed Income,High Yield,Developed Markets,Developed Markets,0.0,0.0
+973,IYLD,326745000.0,Multi Asset,Target Outcome,Blended Development,Global,0.0,0.0
+974,ANGL,1215100000.0,Fixed Income,High Yield,Developed Markets,North America,0.0,1.0
+975,CEMB,86310000.0,Fixed Income,Broad Market,Emerging Markets,Emerging Markets,0.0,0.0
+976,MLPA,894359787.0,Equity,Energy,Developed Markets,North America,0.0,1.0
+977,MOAT,1546079000.0,Equity,Alpha-Seeking,Developed Markets,North America,0.0,1.0
+978,RLY,139177500.0,Multi Asset,Global Macro,Blended Development,Global,0.0,0.0
+979,INKM,95950520.0,Multi Asset,Target Outcome,Blended Development,Global,0.0,0.0
+980,GAL,249925000.0,Multi Asset,Target Outcome,Blended Development,Global,0.0,0.0
+981,GYLD,70105500.0,Multi Asset,Target Outcome,Blended Development,Global,0.0,1.0
+982,HYEM,355524000.0,Fixed Income,High Yield,Emerging Markets,Emerging Markets,0.0,0.0
+983,DVYL,42642000.0,Equity,High Dividend Yield,Developed Markets,North America,1.0,0.0
+984,SDYL,17605476.0,Equity,High Dividend Yield,Developed Markets,North America,1.0,0.0
+985,ALFA,28053919.0,Equity,Alpha-Seeking,Developed Markets,North America,0.0,1.0
+986,GURU,60392901.0,Equity,Alpha-Seeking,Developed Markets,North America,0.0,1.0
+987,CJNK,66196000.0,Fixed Income,Broad Market,Developed Markets,North America,0.0,0.0
+988,HECO,8826485.0,Equity,Theme,Blended Development,Global,0.0,1.0
+989,EMLP,2285353100.0,Equity,Energy,Developed Markets,North America,0.0,1.0
+990,EUFX,8312520.0,Currency,Euro,Developed Markets,Europe,0.0,0.0
+991,SDOG,2340537669.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+992,FINU,64281661.0,Equity,Financials,Developed Markets,North America,1.0,0.0
+993,FINZ,612011.0,Equity,Financials,Developed Markets,North America,1.0,0.0
+994,SPFF,205550483.0,Equity,Preferred Stock,Developed Markets,North America,0.0,0.0
+995,PFXF,508686390.0,Equity,Preferred Stock,Blended Development,Global,0.0,0.0
+996,AMU,327489000.0,Equity,Energy,Developed Markets,North America,0.0,0.0
+997,CROC,7820685.0,Currency,Australian Dollar,Developed Markets,Asia-Pacific,1.0,1.0
+998,DWAS,311580000.0,Equity,Small Cap,Developed Markets,North America,0.0,1.0
+999,HUSE,92806142.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1000,MDIV,731935037.0,Multi Asset,Target Outcome,Blended Development,Global,0.0,1.0
+1001,TDIV,932618650.0,Equity,Technology,Developed Markets,North America,0.0,1.0
+1002,DWPP,33594061.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1003,FM,635817000.0,Equity,Broad Equity,Frontier Markets,Global Ex-U.S.,0.0,1.0
+1004,VEGA,16836803.0,Equity,Buywrite,Blended Development,Global,0.0,0.0
+1005,CXSE,178398000.0,Equity,Broad Equity,Emerging Markets,Asia-Pacific,0.0,0.0
+1006,TLTD,1063044066.0,Equity,Broad Equity,Developed Markets,Global Ex-U.S.,0.0,0.0
+1007,TLTE,620158852.0,Equity,Broad Equity,Emerging Markets,Global Ex-U.S.,0.0,0.0
+1008,QMN,12944950.0,Equity,Long/Short,Blended Development,Global,0.0,0.0
+1009,RAVI,135954076.0,Fixed Income,Investment Grade,Blended Development,Global,0.0,0.0
+1010,CAPE,110075507.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1011,MORL,427251700.0,Real Estate,Real Estate,Developed Markets,North America,1.0,0.0
+1012,VTIP,4819534068.0,Fixed Income,TIPS,Developed Markets,North America,0.0,0.0
+1013,IEFA,56724800000.0,Equity,Broad Equity,Developed Markets,Developed Markets,0.0,1.0
+1014,IEMG,45758640000.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,1.0
+1015,ISTB,1897708000.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1016,IXUS,9502979000.0,Equity,Broad Equity,Blended Development,Global,0.0,1.0
+1017,SPHD,2725455000.0,Equity,High Dividend Yield,Developed Markets,North America,0.0,1.0
+1018,MMTM,32044975.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1019,VLU,16454085.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1020,SNLN,586877333.0,Fixed Income,Loans,Developed Markets,North America,0.0,1.0
+1021,SILJ,44682199.0,Equity,Basic Materials,Blended Development,Global,0.0,1.0
+1022,PHDG,28196000.0,Multi Asset,Target Risk,Developed Markets,North America,0.0,1.0
+1023,MRGR,4581287.0,Equity,Long/Short,Developed Markets,Global,0.0,0.0
+1024,QDEF,328790047.0,Equity,High Dividend Yield,Developed Markets,North America,0.0,0.0
+1025,QDF,1990527547.0,Equity,High Dividend Yield,Developed Markets,North America,0.0,0.0
+1026,QDYN,50281046.0,Equity,High Dividend Yield,Developed Markets,North America,0.0,0.0
+1027,IMLP,57348025.0,Equity,Energy,Developed Markets,North America,0.0,0.0
+1028,FLAG,21416970.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1029,GLDI,42589122.0,Equity,Buywrite,Blended Development,Global,0.0,0.0
+1030,BIZD,190060000.0,Equity,Financials,Developed Markets,North America,0.0,0.0
+1031,FPE,3475919700.0,Equity,Preferred Stock,Blended Development,Global,0.0,1.0
+1032,FXSG,3546500.0,Currency,Singapore Dollar,Developed Markets,Asia-Pacific,0.0,0.0
+1033,YMLI,22043222.0,Equity,Energy,Developed Markets,North America,0.0,0.0
+1034,XMLV,1317046500.0,Equity,Mid Cap,Developed Markets,North America,0.0,1.0
+1035,XSLV,1245235500.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+1036,LGLV,112286000.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1037,SMLV,208700500.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+1038,HYLS,1221632095.0,Fixed Income,High Yield,Blended Development,Global,0.0,0.0
+1039,PEX,9297762.0,Equity,Financials,Blended Development,Global,0.0,0.0
+1040,DIV,414752616.0,Equity,High Dividend Yield,Developed Markets,North America,0.0,0.0
+1041,ATMP,444980555.0,Equity,Energy,Developed Markets,North America,0.0,0.0
+1042,MINC,174960195.0,Fixed Income,Broad Debt,Developed Markets,Global,0.0,0.0
+1043,NGE,56475275.0,Equity,Broad Equity,Frontier Markets,Middle East & Africa,0.0,0.0
+1044,SRLN,2731575000.0,Fixed Income,Loans,Developed Markets,North America,0.0,0.0
+1045,BRZU,60544420.0,Equity,Broad Equity,Emerging Markets,Latin America,1.0,1.0
+1046,KORU,13572164.0,Equity,Broad Equity,Developed Markets,Asia-Pacific,1.0,0.0
+1047,SLVO,32071847.0,Equity,Buywrite,Blended Development,Global,0.0,0.0
+1048,IQDF,992852024.0,Equity,High Dividend Yield,Blended Development,Global Ex-U.S.,0.0,0.0
+1049,IQDE,94341023.0,Equity,High Dividend Yield,Blended Development,Global Ex-U.S.,0.0,0.0
+1050,IQDY,78926025.0,Equity,High Dividend Yield,Blended Development,Global Ex-U.S.,0.0,0.0
+1051,MTUM,8554103999.999998,Equity,Broad Equity,Developed Markets,North America,0.0,1.0
+1052,SIZE,338200000.0,Equity,Broad Equity,Developed Markets,North America,0.0,1.0
+1053,VLUE,3578237000.0,Equity,Broad Equity,Developed Markets,North America,0.0,1.0
+1054,IBCD,94017000.0,Fixed Income,Investment Grade,Developed Markets,Global,0.0,0.0
+1055,IBCE,44707380.0,Fixed Income,Investment Grade,Developed Markets,Global,0.0,0.0
+1056,FTSL,1498848096.0,Fixed Income,High Yield,Blended Development,Global,0.0,0.0
+1057,SYLD,150865854.0,Equity,Alpha-Seeking,Blended Development,Global,0.0,0.0
+1058,DGRW,2304786000.0,Equity,High Dividend Yield,Developed Markets,North America,0.0,1.0
+1059,HYHG,174420068.0,Fixed Income,High Yield,Developed Markets,North America,0.0,0.0
+1060,TIPX,242886400.0,Fixed Income,TIPS,Developed Markets,North America,0.0,0.0
+1061,WDIV,191544920.0,Equity,High Dividend Yield,Blended Development,Global,0.0,0.0
+1062,BNDX,11523658269.0,Fixed Income,Investment Grade,Blended Development,Global Ex-U.S.,0.0,1.0
+1063,VWOB,989321292.0,Fixed Income,Investment Grade,Emerging Markets,Emerging Markets,0.0,0.0
+1064,RVNU,57508026.0,Fixed Income,Broad Municipals,Developed Markets,North America,0.0,0.0
+1065,BFOR,192822500.0,Equity,Broad Equity,Developed Markets,North America,0.0,1.0
+1066,PGHY,217855000.0,Fixed Income,High Yield,Blended Development,Global,0.0,0.0
+1067,ICOL,19937500.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,0.0
+1068,YYY,191976967.0,Multi Asset,Target Outcome,Developed Markets,Global,0.0,0.0
+1069,HSPX,47270439.0,Multi Asset,Volatility,Developed Markets,North America,0.0,0.0
+1070,JPNL,25068262.0,Equity,Broad Equity,Developed Markets,Asia-Pacific,1.0,1.0
+1071,ISRA,51018000.0,Equity,Broad Equity,Frontier Markets,Middle East & Africa,0.0,1.0
+1072,DXJS,209541040.0,Equity,Broad Equity,Developed Markets,Asia-Pacific,0.0,1.0
+1073,SPSM,1193214000.0,Equity,Small Cap,Developed Markets,North America,0.0,1.0
+1074,IBDC,113100000.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1075,IBDD,80805060.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1076,BSCL,895320000.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1077,BSCM,720319500.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1078,QUAL,5205132000.0,Equity,Broad Equity,Developed Markets,North America,0.0,1.0
+1079,KFYP,4616323.0,Equity,Alpha-Seeking,Emerging Markets,Asia-Pacific,0.0,0.0
+1080,DGRS,111746000.0,Equity,High Dividend Yield,Developed Markets,North America,0.0,0.0
+1081,KWEB,1261314816.0,Equity,Technology,Emerging Markets,Asia-Pacific,0.0,1.0
+1082,DGRE,72450000.0,Equity,High Dividend Yield,Emerging Markets,Emerging Markets,0.0,0.0
+1083,MLPX,473832111.0,Equity,Energy,Developed Markets,North America,0.0,1.0
+1084,FMF,12486600.0,Commodities,Long/Short,Blended Development,Global,0.0,0.0
+1085,FNDB,287524800.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+1086,FNDX,4468254000.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+1087,FNDA,3204733000.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+1088,FNDF,3765735000.0,Equity,Large Cap,Developed Markets,Global Ex-U.S.,0.0,1.0
+1089,FNDC,1828376000.0,Equity,Small Cap,Developed Markets,Global Ex-U.S.,0.0,0.0
+1090,FNDE,2117745000.0,Equity,Large Cap,Emerging Markets,Global Ex-U.S.,0.0,1.0
+1091,IDOG,318682000.0,Equity,Large Cap,Developed Markets,Global Ex-U.S.,0.0,0.0
+1092,FID,0.0,Equity,Broad Equity,Blended Development,Global Ex-U.S.,0.0,0.0
+1093,BSJJ,1040325000.0,Fixed Income,High Yield,Developed Markets,North America,0.0,0.0
+1094,BSJK,809523000.0,Fixed Income,High Yield,Developed Markets,North America,0.0,0.0
+1095,NEAR,3596113500.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1096,MLPC,105000000.0,Equity,Energy,Developed Markets,North America,0.0,0.0
+1097,EMCG,41154000.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,0.0
+1098,DBEU,1619919029.0,Equity,Broad Equity,Developed Markets,Europe,0.0,1.0
+1099,DBUK,2115021.0,Equity,Broad Equity,Developed Markets,Europe,0.0,0.0
+1100,JNUG,400300413.0,Equity,Basic Materials,Blended Development,Global,1.0,1.0
+1101,JDST,174979465.0,Equity,Basic Materials,Blended Development,Global,1.0,1.0
+1102,RDIV,537018009.0,Equity,High Dividend Yield,Developed Markets,North America,0.0,0.0
+1103,FIEG,7280420.0,Equity,High Dividend Yield,Developed Markets,Global,0.0,0.0
+1104,RIGS,230103500.0,Fixed Income,Broad Debt,Blended Development,Global,0.0,0.0
+1105,NFRA,853034047.0,Equity,Natural Resources,Blended Development,Global,0.0,0.0
+1106,NOBL,3739872568.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+1107,ULST,36286110.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1108,IPO,19649955.0,Equity,Theme,Developed Markets,North America,0.0,0.0
+1109,DXGE,89532500.0,Equity,Broad Equity,Developed Markets,Europe,0.0,0.0
+1110,SHYG,3748908000.0,Fixed Income,High Yield,Developed Markets,North America,0.0,1.0
+1111,SLQD,801040000.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1112,ROBO,2351267845.0,Equity,Theme,Blended Development,Global,0.0,1.0
+1113,FTGC,239282913.0,Commodities,Broad Commodities,Blended Development,Global,0.0,0.0
+1114,FDIS,529572500.0,Equity,Consumer Discretionary,Developed Markets,North America,0.0,0.0
+1115,FUTY,318054000.0,Equity,Utilities,Developed Markets,North America,0.0,0.0
+1116,FSTA,270352500.0,Equity,Consumer Staples,Developed Markets,North America,0.0,0.0
+1117,FENY,589536000.0,Equity,Energy,Developed Markets,North America,0.0,1.0
+1118,FNCL,1606050000.0,Equity,Financials,Developed Markets,North America,0.0,1.0
+1119,FHLC,1271228000.0,Equity,Health Care,Developed Markets,North America,0.0,1.0
+1120,FIDU,600088500.0,Equity,Industrials,Developed Markets,North America,0.0,0.0
+1121,FTEC,2118336000.0,Equity,Technology,Developed Markets,North America,0.0,1.0
+1122,FMAT,288075000.0,Equity,Basic Materials,Developed Markets,North America,0.0,1.0
+1123,FCOM,125360000.0,Equity,Telecommunications,Developed Markets,North America,0.0,0.0
+1124,VIDI,611470798.0,Equity,Broad Equity,Blended Development,Global Ex-U.S.,0.0,0.0
+1125,ENFR,39834000.0,Equity,Energy,Developed Markets,North America,0.0,0.0
+1126,FTSD,165749660.0,Fixed Income,Treasury,Developed Markets,North America,0.0,0.0
+1127,ASHR,436075525.0,Equity,Broad Equity,Emerging Markets,Asia-Pacific,0.0,1.0
+1128,GQRE,266481061.0,Real Estate,Real Estate,Blended Development,Global,0.0,0.0
+1129,IGHG,589770325.0,Fixed Income,Investment Grade,Developed Markets,Global,0.0,0.0
+1130,EMFM,16225957.0,Equity,Broad Equity,Blended Development,Global Ex-U.S.,0.0,0.0
+1131,DVHL,20796476.0,Multi Asset,Target Outcome,Blended Development,Global,1.0,0.0
+1132,PGAL,46483310.0,Equity,Broad Equity,Developed Markets,Europe,0.0,0.0
+1133,EMSH,11082074.0,Fixed Income,Broad Sovereign,Emerging Markets,Emerging Markets,0.0,0.0
+1134,FYLD,45058246.0,Equity,High Dividend Yield,Developed Markets,Global Ex-U.S.,0.0,0.0
+1135,ICSH,325975000.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1136,QYLD,218153000.0,Equity,Buywrite,Developed Markets,North America,0.0,0.0
+1137,HYND,25848000.0,Fixed Income,High Yield,Developed Markets,North America,0.0,0.0
+1138,AGZD,33614000.0,Fixed Income,Broad Debt,Developed Markets,North America,0.0,0.0
+1139,AGND,30814000.0,Fixed Income,Broad Debt,Developed Markets,North America,0.0,0.0
+1140,HYZD,196425000.0,Fixed Income,High Yield,Developed Markets,North America,0.0,0.0
+1141,USDU,51909000.0,Currency,Developed Markets,Blended Development,Global Ex-U.S.,0.0,1.0
+1142,FTHI,64777593.0,Equity,High Dividend Yield,Developed Markets,Global,0.0,0.0
+1143,FTLB,9172006.0,Equity,Buywrite,Developed Markets,Global,0.0,0.0
+1144,SYG,47206500.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1145,SYE,24345000.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1146,SYV,31340880.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1147,SHYD,134754000.0,Fixed Income,High Yield,Developed Markets,North America,0.0,0.0
+1148,HOLD,52211250.0,Fixed Income,Broad Debt,Developed Markets,Developed Markets,0.0,0.0
+1149,VUSE,685035193.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1150,EURL,58800034.0,Equity,Broad Equity,Developed Markets,Europe,1.0,1.0
+1151,LDUR,151361296.0,Fixed Income,Investment Grade,Blended Development,Global,0.0,0.0
+1152,DBKO,10087029.0,Equity,Broad Equity,Developed Markets,Asia-Pacific,0.0,0.0
+1153,DBAW,127190028.0,Equity,Broad Equity,Blended Development,Global,0.0,0.0
+1154,ZMLP,59400000.0,Equity,Energy,Developed Markets,North America,0.0,0.0
+1155,USFR,64658250.0,Fixed Income,Treasury,Developed Markets,North America,0.0,0.0
+1156,HEWJ,1034744000.0,Equity,Broad Equity,Developed Markets,Asia-Pacific,0.0,1.0
+1157,HEWG,619200000.0,Equity,Broad Equity,Developed Markets,Europe,0.0,1.0
+1158,HEFA,3559314000.0,Equity,Broad Equity,Developed Markets,Global Ex-U.S.,0.0,1.0
+1159,TFLO,95532000.0,Fixed Income,Treasury,Developed Markets,North America,0.0,0.0
+1160,IBMH,244338000.0,Fixed Income,Broad Municipals,Developed Markets,North America,0.0,0.0
+1161,EQLT,21136500.0,Equity,Theme,Blended Development,Global,0.0,0.0
+1162,IPKW,287605420.0,Equity,Alpha-Seeking,Developed Markets,Global Ex-U.S.,0.0,0.0
+1163,FV,2770782062.0,Equity,Alpha-Seeking,Blended Development,Global,0.0,1.0
+1164,DDIV,0.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1165,AIRR,212683556.0,Equity,Industrials,Developed Markets,North America,0.0,0.0
+1166,GVAL,195477154.0,Equity,Broad Equity,Blended Development,Global,0.0,0.0
+1167,TOLZ,40109042.0,Equity,Natural Resources,Blended Development,Global,0.0,0.0
+1168,EDOG,46068000.0,Equity,High Dividend Yield,Emerging Markets,Global Ex-U.S.,0.0,0.0
+1169,BYLD,39781500.0,Fixed Income,Broad Debt,Developed Markets,North America,0.0,0.0
+1170,CN,29141402.0,Equity,Broad Equity,Emerging Markets,Asia-Pacific,0.0,0.0
+1171,UAE,36720000.0,Equity,Broad Equity,Emerging Markets,Middle East & Africa,0.0,0.0
+1172,QAT,54467000.0,Equity,Broad Equity,Emerging Markets,Middle East & Africa,0.0,0.0
+1173,VRP,2084130000.0,Equity,Preferred Stock,Developed Markets,North America,0.0,1.0
+1174,IHDG,560962500.0,Equity,High Dividend Yield,Developed Markets,Global Ex-U.S.,0.0,1.0
+1175,EUDG,71898750.0,Equity,High Dividend Yield,Developed Markets,Europe,0.0,0.0
+1176,FMB,352350104.0,Fixed Income,Broad Municipals,Developed Markets,North America,0.0,0.0
+1177,OUNZ,133093785.0,Commodities,Gold,Blended Development,Global,0.0,1.0
+1178,ASHS,18952525.0,Equity,Small Cap,Emerging Markets,Asia-Pacific,0.0,1.0
+1179,HYGH,285897500.0,Fixed Income,High Yield,Developed Markets,North America,0.0,1.0
+1180,LQDH,213180000.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,1.0
+1181,SPUU,7742344.0,Equity,Large Cap,Developed Markets,North America,1.0,0.0
+1182,JPMV,34195000.0,Equity,Broad Equity,Developed Markets,Asia-Pacific,0.0,0.0
+1183,AXJV,7134000.0,Equity,Broad Equity,Blended Development,Asia-Pacific,0.0,0.0
+1184,EUMV,39057365.0,Equity,Broad Equity,Developed Markets,Europe,0.0,0.0
+1185,QEFA,257088800.0,Equity,Broad Equity,Developed Markets,Global Ex-U.S.,0.0,0.0
+1186,QEMM,292446000.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,0.0
+1187,QWLD,31413200.0,Equity,Broad Equity,Blended Development,Global,0.0,0.0
+1188,SMEZ,39513500.0,Equity,Small Cap,Developed Markets,Europe,0.0,0.0
+1189,DGRO,3714783000.0,Equity,High Dividend Yield,Developed Markets,North America,0.0,1.0
+1190,IEUR,2692860000.0,Equity,Broad Equity,Developed Markets,Europe,0.0,1.0
+1191,IPAC,896886000.0,Equity,Broad Equity,Developed Markets,Asia-Pacific,0.0,0.0
+1192,IUSB,2094435000.0,Fixed Income,Broad Debt,Developed Markets,North America,0.0,0.0
+1193,FBGX,1782792960.0,Equity,Large Cap,Developed Markets,North America,1.0,0.0
+1194,JPGE,229052018.0,Equity,Broad Equity,Developed Markets,Global,0.0,0.0
+1195,LMLP,30467500.0,Equity,Broad Equity,Developed Markets,North America,1.0,0.0
+1196,CFA,543194270.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1197,CFO,923666357.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1198,CDC,726945833.0,Equity,High Dividend Yield,Developed Markets,North America,0.0,0.0
+1199,REET,944288000.0,Real Estate,Real Estate,Blended Development,Global,0.0,0.0
+1200,HEZU,1840869000.0,Equity,Broad Equity,Developed Markets,Europe,0.0,0.0
+1201,WIL,38332878.0,Equity,Theme,Developed Markets,North America,0.0,0.0
+1202,SGDM,143714000.0,Equity,Basic Materials,Blended Development,Global,0.0,0.0
+1203,TAPR,19270472.0,Fixed Income,Treasury,Developed Markets,North America,0.0,0.0
+1204,IFV,890531291.0,Equity,Alpha-Seeking,Blended Development,Global Ex-U.S.,0.0,0.0
+1205,CNXT,18825000.0,Equity,Broad Equity,Emerging Markets,Asia-Pacific,0.0,0.0
+1206,SMLL,4147923.0,Equity,Small Cap,Developed Markets,North America,1.0,0.0
+1207,CSF,109890733.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+1208,FTSM,1997650443.0,Fixed Income,Broad Debt,Developed Markets,North America,0.0,0.0
+1209,WYDE,4798517.0,Fixed Income,High Yield,Developed Markets,North America,0.0,0.0
+1210,IBMI,266598500.0,Fixed Income,Broad Municipals,Developed Markets,North America,0.0,0.0
+1211,FDIV,93423098.0,Multi Asset,Target Outcome,Blended Development,Global,0.0,0.0
+1212,EFAD,114889538.0,Equity,Broad Equity,Developed Markets,Global Ex-U.S.,0.0,0.0
+1213,WBIA,57961389.0,Equity,Small Cap,Blended Development,Global,0.0,0.0
+1214,WBIB,46781794.0,Equity,Small Cap,Blended Development,Global,0.0,0.0
+1215,WBIC,52946983.0,Equity,High Dividend Yield,Developed Markets,Global,0.0,0.0
+1216,WBID,48798146.0,Equity,Small Cap,Blended Development,Global,0.0,0.0
+1217,WBIE,87185155.0,Equity,Large Cap,Blended Development,Global,0.0,0.0
+1218,WBIF,73908437.0,Equity,Large Cap,Blended Development,Global,0.0,0.0
+1219,WBIG,86775430.0,Equity,High Dividend Yield,Developed Markets,Global,0.0,0.0
+1220,WBIL,67960592.0,Equity,Large Cap,Blended Development,Global,0.0,0.0
+1221,WBII,123264821.0,Multi Asset,Target Outcome,Blended Development,Global,0.0,0.0
+1222,WBIH,275884300.0,Multi Asset,Target Outcome,Blended Development,Global,0.0,0.0
+1223,MBSD,46904023.0,Fixed Income,Agency MBS,Developed Markets,North America,0.0,0.0
+1224,LDRI,22112910.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1225,FTLS,160172581.0,Equity,Long/Short,Blended Development,Global,0.0,0.0
+1226,RODI,35133000.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1227,BSJL,366226000.0,Fixed Income,High Yield,Developed Markets,North America,0.0,0.0
+1228,BSJM,204014000.0,Fixed Income,High Yield,Developed Markets,North America,0.0,0.0
+1229,BSCN,348105000.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1230,BSCO,276451260.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1231,DIVC,145560000.0,Equity,High Dividend Yield,Developed Markets,North America,0.0,0.0
+1232,DVP,146486528.0,Equity,Alpha-Seeking,Developed Markets,North America,0.0,0.0
+1233,HEEM,382721500.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,0.0
+1234,ARKQ,167680753.0,Equity,Theme,Blended Development,Global,0.0,0.0
+1235,ARKW,543634403.0,Equity,Theme,Blended Development,Global,0.0,1.0
+1236,DWAT,8790110.0,Multi Asset,Target Outcome,Blended Development,Global,0.0,0.0
+1237,CIZ,176469321.0,Equity,Large Cap,Developed Markets,Global Ex-U.S.,0.0,0.0
+1238,HDLV,15799000.0,Equity,High Dividend Yield,Developed Markets,North America,1.0,0.0
+1239,AMZA,608310030.0,Equity,Energy,Developed Markets,North America,0.0,1.0
+1240,FBND,369457200.0,Fixed Income,Broad Debt,Developed Markets,North America,0.0,0.0
+1241,FLTB,101116250.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1242,FCOR,67760000.0,Fixed Income,Broad Market,Developed Markets,North America,0.0,0.0
+1243,ALTS,8802138.0,Multi Asset,Global Macro,Blended Development,Global,0.0,0.0
+1244,COMT,638780000.0,Multi Asset,Target Outcome,Blended Development,Global,0.0,0.0
+1245,VBND,596908592.0,Fixed Income,Broad Debt,Developed Markets,North America,0.0,0.0
+1246,FEUZ,75005086.0,Equity,Broad Equity,Developed Markets,Europe,0.0,0.0
+1247,QVAL,137044499.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1248,DAX,20341790.0,Equity,Large Cap,Developed Markets,Europe,0.0,0.0
+1249,SCTO,4119438.0,Multi Asset,Target Outcome,Developed Markets,North America,0.0,0.0
+1250,EFFE,5394782.0,Multi Asset,Target Outcome,Blended Development,Global,0.0,0.0
+1251,ARKG,169680050.0,Equity,Theme,Blended Development,Global,0.0,0.0
+1252,ARKK,859104721.0,Equity,Theme,Blended Development,Global,0.0,1.0
+1253,GMOM,103260125.0,Multi Asset,Target Outcome,Blended Development,Global,0.0,0.0
+1254,FPXI,24563070.0,Equity,Alpha-Seeking,Blended Development,Global Ex-U.S.,0.0,0.0
+1255,FEMB,51266393.0,Fixed Income,Broad Debt,Emerging Markets,Emerging Markets,0.0,0.0
+1256,LMBS,1273625102.0,Fixed Income,Agency MBS,Developed Markets,North America,0.0,0.0
+1257,PDBC,1309438080.0,Commodities,Broad Commodities,Blended Development,Global,0.0,0.0
+1258,JPIN,1497190515.0,Equity,Broad Equity,Developed Markets,Global Ex-U.S.,0.0,1.0
+1259,CBON,4464000.0,Fixed Income,Investment Grade,Emerging Markets,Asia-Pacific,0.0,0.0
+1260,EMQQ,422897150.0,Equity,Technology,Emerging Markets,Emerging Markets,0.0,0.0
+1261,HACK,1518042222.0,Equity,Technology,Blended Development,Global,0.0,1.0
+1262,SKOR,58608049.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1263,LOWC,157403000.0,Equity,Theme,Blended Development,Global,0.0,0.0
+1264,KCNY,12022096.0,Fixed Income,Investment Grade,Emerging Markets,Asia-Pacific,0.0,0.0
+1265,CRBN,558930000.0,Equity,Theme,Blended Development,Global,0.0,0.0
+1266,IBDL,620704320.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1267,MLPO,56080613.0,Equity,Energy,Developed Markets,North America,0.0,0.0
+1268,GAA,66058884.0,Multi Asset,Target Outcome,Blended Development,Global,0.0,0.0
+1269,DBEZ,45855031.0,Equity,Broad Equity,Developed Markets,Europe,0.0,0.0
+1270,VALX,26525593.0,Equity,Alpha-Seeking,Blended Development,Global,0.0,0.0
+1271,XSOE,110877000.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,0.0
+1272,BBC,81144141.0,Equity,Health Care,Developed Markets,North America,0.0,0.0
+1273,BBP,35781459.0,Equity,Health Care,Developed Markets,North America,0.0,0.0
+1274,IVAL,88126885.0,Equity,Broad Equity,Blended Development,Global Ex-U.S.,0.0,0.0
+1275,DIVY,72719517.0,Multi Asset,Target Outcome,Blended Development,Global,0.0,0.0
+1276,EQAL,371284843.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1277,SBIO,197421000.0,Equity,Health Care,Developed Markets,North America,0.0,1.0
+1278,JPEM,217365217.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,1.0
+1279,HIPS,8872850.0,Multi Asset,Target Outcome,Blended Development,Global,0.0,0.0
+1280,PPLC,84735000.0,Equity,Large Cap,Developed Markets,North America,1.0,0.0
+1281,PPSC,8436000.0,Equity,Small Cap,Developed Markets,North America,1.0,0.0
+1282,IMTM,131365000.0,Equity,Broad Equity,Developed Markets,Global Ex-U.S.,0.0,0.0
+1283,IQLT,85782000.0,Equity,Broad Equity,Developed Markets,Global Ex-U.S.,0.0,0.0
+1284,DIVA,2416000.0,Equity,Long/Short,Developed Markets,North America,0.0,0.0
+1285,FREL,365390000.0,Real Estate,Real Estate,Developed Markets,North America,0.0,0.0
+1286,SMHD,46814350.0,Equity,High Dividend Yield,Developed Markets,North America,1.0,0.0
+1287,SPYB,16810075.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1288,REGL,426053808.0,Equity,Mid Cap,Developed Markets,North America,0.0,1.0
+1289,SMDV,437632559.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+1290,GHII,32762500.0,Equity,High Dividend Yield,Blended Development,Global,0.0,0.0
+1291,GDXX,6446701.0,Equity,Basic Materials,Blended Development,Global,1.0,1.0
+1292,GDXS,3177248.0,Equity,Basic Materials,Blended Development,Global,1.0,1.0
+1293,KALL,0.0,Equity,Broad Equity,Emerging Markets,Asia-Pacific,0.0,0.0
+1294,FLRT,29262000.0,Fixed Income,High Yield,Developed Markets,North America,0.0,0.0
+1295,RISE,42844758.0,Fixed Income,Treasury,Developed Markets,North America,0.0,0.0
+1296,TOTL,3285922500.0,Fixed Income,Broad Debt,Blended Development,Global,0.0,0.0
+1297,FIBR,121287500.0,Fixed Income,Broad Debt,Developed Markets,North America,0.0,0.0
+1298,ROAM,59618000.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,0.0
+1299,RODM,384648000.0,Equity,Broad Equity,Developed Markets,Global Ex-U.S.,0.0,0.0
+1300,ROUS,88041745.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1301,QVM,4409250.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1302,HYIH,3496508.0,Fixed Income,High Yield,Developed Markets,North America,0.0,0.0
+1303,IGIH,9562024.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1304,EMIH,8603025.0,Fixed Income,Broad Sovereign,Emerging Markets,Emerging Markets,0.0,0.0
+1305,MEAR,54879000.0,Fixed Income,Broad Municipals,Developed Markets,North America,0.0,0.0
+1306,EUSC,155489500.0,Equity,Small Cap,Developed Markets,Europe,0.0,1.0
+1307,IBDK,591003000.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1308,IBDM,662048000.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1309,IBDN,429950700.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1310,IBDO,373296000.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1311,IBDP,236648220.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1312,IBDQ,301576000.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1313,HOML,4165000.0,Equity,Consumer Discretionary,Developed Markets,North America,1.0,0.0
+1314,AFTY,7648936.0,Equity,Large Cap,Emerging Markets,Asia-Pacific,0.0,1.0
+1315,SDEM,17186318.0,Equity,High Dividend Yield,Emerging Markets,Emerging Markets,0.0,0.0
+1316,SRET,71930095.0,Real Estate,Real Estate,Blended Development,Global,0.0,0.0
+1317,XT,2380279000.0,Equity,Technology,Blended Development,Global,0.0,1.0
+1318,QED,3235522.0,Multi Asset,Long/Short,Blended Development,Global,0.0,0.0
+1319,QLS,8868022.0,Multi Asset,Long/Short,Blended Development,Global,0.0,0.0
+1320,ROGS,22190000.0,Equity,Small Cap,Blended Development,Global,0.0,0.0
+1321,SGDJ,118416000.0,Equity,Basic Materials,Blended Development,Global,0.0,0.0
+1322,XRLV,188153683.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1323,FFTY,399532964.0,Equity,Broad Equity,Blended Development,Global,0.0,1.0
+1324,CHAU,45937500.0,Equity,Large Cap,Emerging Markets,Asia-Pacific,1.0,1.0
+1325,QUS,104768750.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1326,SMCP,28378473.0,Equity,Small Cap,Blended Development,Global,0.0,0.0
+1327,PAK,53042361.0,Equity,Broad Equity,Frontier Markets,Asia-Pacific,0.0,0.0
+1328,JETS,105642388.0,Equity,Industrials,Blended Development,Global,0.0,1.0
+1329,LRGF,1028988000.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1330,SMLF,103035750.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+1331,INTF,666936000.0,Equity,Broad Equity,Developed Markets,Developed Markets,0.0,0.0
+1332,ISCF,34815000.0,Equity,Small Cap,Developed Markets,Developed Markets,0.0,0.0
+1333,ACWF,55350000.0,Equity,Broad Equity,Blended Development,Global,0.0,0.0
+1334,LRET,5584400.0,Real Estate,Real Estate,Developed Markets,North America,1.0,0.0
+1335,SCIU,144809270.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1336,SCID,11045742.0,Equity,Broad Equity,Developed Markets,Europe,0.0,0.0
+1337,SCIJ,9224198.0,Equity,Broad Equity,Developed Markets,Asia-Pacific,0.0,0.0
+1338,SCIX,3771538.0,Equity,Broad Equity,Developed Markets,Asia-Pacific,0.0,0.0
+1339,YLCO,21173233.0,Equity,Theme,Blended Development,Global,0.0,0.0
+1340,LABU,570167424.0,Equity,Health Care,Developed Markets,North America,1.0,1.0
+1341,LABD,41455410.0,Equity,Health Care,Developed Markets,North America,1.0,1.0
+1342,GUSH,154186066.0,Equity,Energy,Developed Markets,North America,1.0,1.0
+1343,DRIP,49574830.0,Equity,Energy,Developed Markets,North America,1.0,1.0
+1344,ICVT,300677000.0,Fixed Income,Convertibles,Developed Markets,North America,0.0,0.0
+1345,PTNQ,241399203.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1346,PTMC,543262775.0,Equity,Mid Cap,Developed Markets,North America,0.0,0.0
+1347,PTLC,1017240475.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+1348,CHAD,114786000.0,Equity,Large Cap,Emerging Markets,Asia-Pacific,0.0,1.0
+1349,ISZE,5510000.0,Equity,Large Cap,Developed Markets,Global Ex-U.S.,0.0,0.0
+1350,IVLU,161784000.0,Equity,Large Cap,Developed Markets,Global Ex-U.S.,0.0,0.0
+1351,UBIO,52646420.0,Equity,Health Care,Developed Markets,North America,1.0,1.0
+1352,ZBIO,5400014.0,Equity,Health Care,Developed Markets,North America,1.0,1.0
+1353,JPN,20444579.0,Equity,Large Cap,Developed Markets,Asia-Pacific,0.0,0.0
+1354,HTUS,79045019.0,Equity,Long/Short,Developed Markets,North America,0.0,0.0
+1355,TPYP,132329080.0,Equity,Energy,Developed Markets,North America,0.0,0.0
+1356,HEWU,16786000.0,Equity,Large Cap,Developed Markets,Europe,0.0,0.0
+1357,HEWL,5390000.0,Equity,Large Cap,Developed Markets,Europe,0.0,0.0
+1358,HEWP,35937000.0,Equity,Large Cap,Developed Markets,Europe,0.0,0.0
+1359,HEWY,1414000.0,Equity,Large Cap,Developed Markets,Asia-Pacific,0.0,0.0
+1360,HEWW,1945890.0,Equity,Large Cap,Emerging Markets,Latin America,0.0,0.0
+1361,HAUD,1244500.0,Equity,Large Cap,Developed Markets,Asia-Pacific,0.0,0.0
+1362,HEWC,9320500.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1363,HAWX,97363750.0,Equity,Large Cap,Blended Development,Global Ex-U.S.,0.0,0.0
+1364,HSCZ,9375090.0,Equity,Large Cap,Developed Markets,Developed Markets,0.0,0.0
+1365,HEWI,3350000.0,Equity,Large Cap,Developed Markets,Europe,0.0,0.0
+1366,CIBR,616607056.0,Equity,Technology,Blended Development,Global,0.0,1.0
+1367,CDL,146610620.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1368,CSB,45221618.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+1369,CSA,32510195.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+1370,KLDW,136241574.0,Equity,Broad Equity,Developed Markets,Developed Markets,0.0,0.0
+1371,YLD,297324157.0,Multi Asset,Target Outcome,Blended Development,Global,0.0,0.0
+1372,AGGY,381863090.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1373,ALTY,13586255.0,Multi Asset,Target Outcome,Blended Development,Global,0.0,0.0
+1374,OUSA,487192500.0,Equity,Large Cap,Blended Development,Global Ex-U.S.,0.0,1.0
+1375,MOTI,101568355.0,Equity,Broad Equity,Developed Markets,Global Ex-U.S.,0.0,0.0
+1376,IPAY,355028210.0,Equity,Technology,Blended Development,Global,0.0,1.0
+1377,HFXI,564957346.0,Equity,Broad Equity,Developed Markets,Global Ex-U.S.,0.0,0.0
+1378,HFXE,164257020.0,Equity,Broad Equity,Developed Markets,Europe,0.0,0.0
+1379,HFXJ,34596797.0,Equity,Broad Equity,Developed Markets,Asia-Pacific,0.0,0.0
+1380,EMBH,5148000.0,Fixed Income,Investment Grade,Emerging Markets,Emerging Markets,0.0,0.0
+1381,IGBH,0.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1382,NFLT,132825097.0,Fixed Income,Unconstrained,Blended Development,Global,0.0,0.0
+1383,HDAW,22928065.0,Equity,High Dividend Yield,Blended Development,Global Ex-U.S.,0.0,0.0
+1384,HDEF,23830024.0,Equity,High Dividend Yield,Developed Markets,Developed Markets,0.0,0.0
+1385,EWRE,17738500.0,Real Estate,Real Estate,Developed Markets,North America,0.0,0.0
+1386,NAIL,44745000.0,Equity,Consumer Discretionary,Developed Markets,North America,1.0,0.0
+1387,DPST,49075000.0,Equity,Financials,Developed Markets,North America,1.0,0.0
+1388,WDRW,2293725.0,Equity,Financials,Developed Markets,North America,1.0,0.0
+1389,GRMY,2303023.0,Equity,Broad Equity,Developed Markets,Europe,0.0,0.0
+1390,EURZ,2338503.0,Equity,Broad Equity,Developed Markets,Europe,0.0,0.0
+1391,OEUR,47414250.0,Equity,Large Cap,Developed Markets,Europe,0.0,0.0
+1392,CRAK,28520000.0,Equity,Energy,Blended Development,Global,0.0,0.0
+1393,CIL,22084949.0,Equity,Broad Equity,Developed Markets,Global Ex-U.S.,0.0,0.0
+1394,CID,42134466.0,Equity,High Dividend Yield,Developed Markets,Global Ex-U.S.,0.0,0.0
+1395,VTEB,2637167626.0,Fixed Income,Broad Municipals,Developed Markets,North America,0.0,0.0
+1396,XCEM,8980799.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,0.0
+1397,IBMJ,184325730.0,Fixed Income,Broad Municipals,Developed Markets,North America,0.0,0.0
+1398,IBMK,191483100.0,Fixed Income,Broad Municipals,Developed Markets,North America,0.0,0.0
+1399,VAMO,32757316.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1400,EUDV,9436339.0,Equity,Broad Equity,Developed Markets,Europe,0.0,0.0
+1401,KSA,183204000.0,Equity,Broad Equity,Frontier Markets,Middle East & Africa,0.0,1.0
+1402,GSLC,3333539975.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+1403,SPXE,7638224.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1404,SPXN,1497310.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1405,SPXV,1513811.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1406,SPXT,2807056.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1407,UTES,13616136.0,Equity,Utilities,Developed Markets,North America,0.0,0.0
+1408,LKOR,27390050.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1409,QLC,45721536.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1410,JHMM,357532500.0,Equity,Mid Cap,Developed Markets,North America,0.0,0.0
+1411,JHML,438146250.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1412,JHMT,69893355.0,Equity,Technology,Developed Markets,North America,0.0,0.0
+1413,JHMH,47229600.0,Equity,Health Care,Developed Markets,North America,0.0,0.0
+1414,JHMF,70962720.0,Equity,Financials,Developed Markets,North America,0.0,0.0
+1415,JHMC,50403200.0,Equity,Consumer Discretionary,Developed Markets,North America,0.0,0.0
+1416,GEM,1633874000.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,1.0
+1417,JPUS,541422102.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1418,QGTA,49671524.0,Multi Asset,Target Outcome,Blended Development,Global,0.0,0.0
+1419,MLTI,7125656.0,Multi Asset,Target Outcome,Blended Development,Global,0.0,0.0
+1420,HJPX,3061000.0,Equity,Broad Equity,Developed Markets,Asia-Pacific,0.0,0.0
+1421,BSJN,94212000.0,Fixed Income,High Yield,Developed Markets,North America,0.0,0.0
+1422,BSCP,103845000.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1423,XLRE,2460250000.0,Real Estate,Real Estate,Developed Markets,North America,0.0,1.0
+1424,SPMO,36288040.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1425,SPVU,27073386.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1426,DWTR,70425031.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1427,MLPB,9844000.0,Equity,Energy,Blended Development,Global,0.0,0.0
+1428,AMUB,6988400.0,Equity,Energy,Developed Markets,North America,0.0,0.0
+1429,MRRL,11856000.0,Real Estate,Real Estate,Developed Markets,North America,1.0,0.0
+1430,UCIB,6007600.0,Commodities,Broad Commodities,Blended Development,Global,0.0,0.0
+1431,BDCZ,8344000.0,Equity,Financials,Blended Development,Global,0.0,0.0
+1432,LBDC,6540960.0,Equity,Financials,Blended Development,Global,1.0,0.0
+1433,CNCR,55912500.0,Equity,Health Care,Developed Markets,North America,0.0,0.0
+1434,CNHX,1232549.0,Equity,Broad Equity,Emerging Markets,Asia-Pacific,0.0,0.0
+1435,ASHX,2679018.0,Equity,Large Cap,Emerging Markets,Asia-Pacific,0.0,0.0
+1436,SPYD,515394000.0,Equity,High Dividend Yield,Developed Markets,North America,0.0,0.0
+1437,XINA,1860000.0,Equity,Broad Equity,Emerging Markets,Asia-Pacific,0.0,0.0
+1438,ITEQ,45413750.0,Equity,Technology,Emerging Markets,Middle East & Africa,0.0,0.0
+1439,FCVT,130687561.0,Fixed Income,Convertibles,Blended Development,Global,0.0,0.0
+1440,IDLB,121163067.0,Equity,Broad Equity,Developed Markets,Global Ex-U.S.,0.0,0.0
+1441,USLB,163124675.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1442,GSIE,869624000.0,Equity,Broad Equity,Developed Markets,Global Ex-U.S.,0.0,1.0
+1443,TLDH,9259278.0,Equity,Broad Equity,Developed Markets,Global Ex-U.S.,0.0,0.0
+1444,TLEH,32763528.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,0.0
+1445,IAGG,727771500.0,Fixed Income,Broad Debt,Blended Development,Global Ex-U.S.,0.0,0.0
+1446,PRME,1037376.0,Real Estate,Real Estate,Blended Development,Global,0.0,0.0
+1447,ETHO,30221840.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1448,DEEF,55081029.0,Equity,Broad Equity,Developed Markets,Developed Markets,0.0,0.0
+1449,DEUS,154197714.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1450,ASET,11963778.0,Multi Asset,Target Outcome,Blended Development,Global,0.0,0.0
+1451,SPYX,297066420.0,Equity,Theme,Developed Markets,North America,0.0,0.0
+1452,QMOM,71874500.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1453,ONEY,418128500.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1454,ONEO,606346500.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1455,ONEV,481812500.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1456,GASX,4924412.0,Equity,Energy,Blended Development,Global,1.0,1.0
+1457,MJ,506583000.0,Equity,Theme,Blended Development,Global,0.0,1.0
+1458,EMGF,202758000.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,0.0
+1459,PTEU,144503500.0,Equity,Broad Equity,Developed Markets,Europe,0.0,0.0
+1460,DJD,16334775.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1461,NANR,696802500.0,Equity,Natural Resources,Developed Markets,North America,0.0,0.0
+1462,JPEU,77053675.0,Equity,Broad Equity,Developed Markets,Europe,0.0,0.0
+1463,DYLS,131831000.0,Multi Asset,Long/Short,Developed Markets,North America,0.0,0.0
+1464,DYB,7954320.0,Multi Asset,Long/Short,Developed Markets,North America,0.0,0.0
+1465,IMOM,60608500.0,Equity,Broad Equity,Developed Markets,Global Ex-U.S.,0.0,0.0
+1466,LVHD,638184908.0,Equity,High Dividend Yield,Developed Markets,North America,0.0,0.0
+1467,LEAD,49295738.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1468,DEWJ,4481985.0,Equity,Broad Equity,Developed Markets,Asia-Pacific,0.0,0.0
+1469,DEZU,2734000.0,Equity,Broad Equity,Developed Markets,Europe,0.0,0.0
+1470,DEFA,2877000.0,Equity,Broad Equity,Developed Markets,Global Ex-U.S.,0.0,0.0
+1471,DDLS,15955000.0,Equity,Small Cap,Developed Markets,Global Ex-U.S.,0.0,0.0
+1472,DDWM,520829750.0,Equity,Broad Equity,Developed Markets,Global Ex-U.S.,0.0,0.0
+1473,XITK,15440055.0,Equity,Technology,Developed Markets,North America,0.0,0.0
+1474,DFND,6403500.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1475,GARD,3276525.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1476,EMDV,19309555.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,0.0
+1477,MLPQ,57801501.0,Equity,Energy,Developed Markets,North America,1.0,0.0
+1478,MLPZ,55659100.0,Equity,Energy,Developed Markets,North America,1.0,0.0
+1479,GTO,59218790.0,Fixed Income,Broad Debt,Developed Markets,Global,0.0,0.0
+1480,FIEE,559930800.0,Equity,Broad Equity,Developed Markets,Europe,1.0,0.0
+1481,FUT,3049541.0,Commodities,Long/Short,Blended Development,Global,0.0,0.0
+1482,OILX,17028000.0,Commodities,Crude Oil,Blended Development,Global,0.0,0.0
+1483,FIHD,1334106140.0,Equity,High Dividend Yield,Developed Markets,Global,1.0,0.0
+1484,GCOW,178088000.0,Equity,High Dividend Yield,Developed Markets,Developed Markets,0.0,0.0
+1485,SOVB,17230780.0,Fixed Income,High Yield,Developed Markets,Global,0.0,0.0
+1486,PUTW,211623000.0,Multi Asset,Volatility,Developed Markets,North America,0.0,0.0
+1487,JSML,13620200.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+1488,JSMD,39490200.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+1489,VIGI,882771231.0,Equity,Broad Equity,Developed Markets,Global Ex-U.S.,0.0,0.0
+1490,VYMI,883459615.0,Equity,High Dividend Yield,Developed Markets,Global Ex-U.S.,0.0,0.0
+1491,GSEU,72605835.0,Equity,Broad Equity,Developed Markets,Europe,0.0,0.0
+1492,GSJY,54090560.0,Equity,Broad Equity,Developed Markets,Asia-Pacific,0.0,0.0
+1493,SHE,342607725.0,Equity,Theme,Developed Markets,North America,0.0,0.0
+1494,IFLY,50182600.0,Equity,Technology,Blended Development,Global,0.0,0.0
+1495,GAMR,101085260.0,Equity,Technology,Blended Development,Global,0.0,0.0
+1496,DWIN,72697805.0,Multi Asset,Target Outcome,Developed Markets,Global,0.0,0.0
+1497,FVC,530334058.0,Equity,Alpha-Seeking,Blended Development,Global,0.0,0.0
+1498,PSET,19415035.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1499,PY,15327034.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1500,CEZ,19135025.0,Equity,Large Cap,Emerging Markets,Emerging Markets,0.0,0.0
+1501,JHMS,23855040.0,Equity,Consumer Staples,Developed Markets,North America,0.0,0.0
+1502,JHME,38640516.0,Equity,Energy,Developed Markets,North America,0.0,0.0
+1503,JHMI,35184200.0,Equity,Industrials,Developed Markets,North America,0.0,0.0
+1504,JHMA,23745600.0,Equity,Basic Materials,Developed Markets,North America,0.0,0.0
+1505,JHMU,18440045.0,Equity,Utilities,Developed Markets,North America,0.0,0.0
+1506,DVEM,31460000.0,Equity,High Dividend Yield,Emerging Markets,Emerging Markets,0.0,0.0
+1507,IQDG,26955000.0,Equity,Broad Equity,Developed Markets,Global Ex-U.S.,0.0,0.0
+1508,RFAP,59587088.0,Equity,Broad Equity,Developed Markets,Asia-Pacific,0.0,0.0
+1509,RFDI,651420124.0,Equity,Broad Equity,Developed Markets,Developed Markets,0.0,0.0
+1510,RFEU,169794108.0,Equity,Broad Equity,Developed Markets,Europe,0.0,0.0
+1511,EMTL,45942000.0,Fixed Income,Broad Debt,Emerging Markets,Emerging Markets,0.0,0.0
+1512,STOT,53564830.0,Fixed Income,Broad Debt,Blended Development,Global,0.0,0.0
+1513,CATH,159302878.0,Equity,Theme,Developed Markets,North America,0.0,0.0
+1514,DEMG,6357525.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,0.0
+1515,IBUY,352364000.0,Equity,Consumer Discretionary,Blended Development,Global,0.0,0.0
+1516,WFIG,4771160.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1517,SFIG,4891990.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1518,WFHY,4983040.0,Fixed Income,High Yield,Developed Markets,North America,0.0,0.0
+1519,SFHY,5030000.0,Fixed Income,High Yield,Developed Markets,North America,0.0,0.0
+1520,MILN,21053962.0,Equity,Theme,Developed Markets,North America,0.0,0.0
+1521,BFIT,6894212.0,Equity,Theme,Developed Markets,Developed Markets,0.0,0.0
+1522,LNGR,14446793.0,Equity,Theme,Developed Markets,Global,0.0,0.0
+1523,AGGE,50869518.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1524,AGGP,334425019.0,Fixed Income,Broad Debt,Developed Markets,North America,0.0,0.0
+1525,JPME,101664103.0,Equity,Mid Cap,Developed Markets,North America,0.0,0.0
+1526,AMJL,18168757.0,Equity,Energy,Developed Markets,North America,1.0,0.0
+1527,FAAR,8652058.0,Commodities,Long/Short,Blended Development,Global,0.0,0.0
+1528,IGRO,56900000.0,Equity,Broad Equity,Blended Development,Global Ex-U.S.,0.0,0.0
+1529,EPRF,19686896.0,Equity,Preferred Stock,Developed Markets,North America,0.0,0.0
+1530,DWFI,158160568.0,Fixed Income,Broad Debt,Blended Development,Global,0.0,0.0
+1531,FLQH,10096000.0,Equity,Broad Equity,Developed Markets,Global Ex-U.S.,0.0,0.0
+1532,FLQE,361920000.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,0.0
+1533,FLQD,16884000.0,Equity,Broad Equity,Blended Development,Global,0.0,0.0
+1534,FLQG,18812940.0,Equity,Broad Equity,Blended Development,Global,0.0,0.0
+1535,RFFC,122808072.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1536,RFDA,122275067.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1537,SPDN,16667528.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+1538,OLD,10600027.0,Equity,Health Care,Blended Development,Global,0.0,0.0
+1539,SLIM,3800218.0,Equity,Health Care,Blended Development,Global,0.0,0.0
+1540,ORG,12642032.0,Equity,Health Care,Blended Development,Global,0.0,0.0
+1541,BEMO,63854000.0,Multi Asset,Target Outcome,Developed Markets,North America,0.0,0.0
+1542,ESGS,4618684.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1543,ESGN,16030405.0,Equity,Broad Equity,Developed Markets,Global Ex-U.S.,0.0,0.0
+1544,ESGW,7598047.0,Equity,Broad Equity,Blended Development,Global,0.0,0.0
+1545,RFUN,40470560.0,Fixed Income,Broad Debt,Blended Development,Global,0.0,0.0
+1546,RFCI,90364000.0,Fixed Income,Broad Debt,Blended Development,Global,0.0,0.0
+1547,RFEM,127858625.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,0.0
+1548,CNYA,9168250.0,Equity,Large Cap,Emerging Markets,Asia-Pacific,0.0,1.0
+1549,HYXE,10134000.0,Fixed Income,High Yield,Developed Markets,North America,0.0,0.0
+1550,FALN,58410000.0,Fixed Income,High Yield,Developed Markets,North America,0.0,0.0
+1551,HYDD,3662918.0,Fixed Income,High Yield,Developed Markets,North America,1.0,0.0
+1552,DESC,11095207.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+1553,XTH,3969500.0,Equity,Technology,Developed Markets,North America,0.0,0.0
+1554,XWEB,4819000.0,Equity,Technology,Developed Markets,North America,0.0,0.0
+1555,ESGD,226338000.0,Equity,Theme,Developed Markets,Global Ex-U.S.,0.0,0.0
+1556,ESGE,142975000.0,Equity,Theme,Emerging Markets,Emerging Markets,0.0,0.0
+1557,SCAP,5464090.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+1558,KRMA,56521532.0,Equity,Theme,Developed Markets,North America,0.0,0.0
+1559,REML,27397091.0,Real Estate,Real Estate,Developed Markets,North America,1.0,0.0
+1560,ESG,25897569.0,Equity,Theme,Developed Markets,North America,0.0,0.0
+1561,ESGG,69939690.0,Equity,Theme,Blended Development,Global,0.0,0.0
+1562,EYLD,27312621.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,0.0
+1563,PRNT,52709249.0,Equity,Technology,Blended Development,Global,0.0,0.0
+1564,EUFL,5622037.0,Equity,Financials,Developed Markets,Europe,1.0,0.0
+1565,WBIR,21360500.0,Multi Asset,Target Risk,Blended Development,Global,0.0,0.0
+1566,LVHI,52375221.0,Equity,High Dividend Yield,Developed Markets,Global Ex-U.S.,0.0,0.0
+1567,MLPE,0.0,Equity,Energy,Developed Markets,North America,0.0,0.0
+1568,BTEC,70224037.0,Equity,Health Care,Developed Markets,North America,0.0,0.0
+1569,GENY,22926038.0,Equity,Theme,Blended Development,Global,0.0,0.0
+1570,HUSV,116935973.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1571,HDMV,53776067.0,Equity,Broad Equity,Developed Markets,Global Ex-U.S.,0.0,0.0
+1572,GBIL,1146374000.0,Fixed Income,Treasury,Developed Markets,North America,0.0,0.0
+1573,SMMV,29475000.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+1574,FINX,139158750.0,Equity,Technology,Developed Markets,Global,0.0,0.0
+1575,SNSR,112137868.0,Equity,Theme,Developed Markets,Global,0.0,0.0
+1576,BOTZ,2506265948.0,Equity,Theme,Developed Markets,Global,0.0,1.0
+1577,BSCQ,53295000.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1578,BSJO,42256050.0,Fixed Income,High Yield,Developed Markets,North America,0.0,0.0
+1579,JPHF,202934506.0,Multi Asset,Global Macro,Blended Development,Global,0.0,0.0
+1580,FDVV,138375000.0,Equity,High Dividend Yield,Developed Markets,Global,0.0,0.0
+1581,FDRR,309930925.0,Equity,High Dividend Yield,Developed Markets,Global,0.0,0.0
+1582,FDLO,62400500.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1583,FDMO,82602500.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1584,FQAL,69420000.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1585,FVAL,80707000.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1586,JPHY,114584057.0,Fixed Income,High Yield,Developed Markets,North America,0.0,0.0
+1587,IBDR,103462500.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1588,NUAG,95735000.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1589,FTXO,1295512558.0,Equity,Financials,Developed Markets,North America,0.0,0.0
+1590,FTXG,988935.0,Equity,Consumer Staples,Developed Markets,North America,0.0,0.0
+1591,FTXN,5004050.0,Equity,Energy,Developed Markets,North America,0.0,0.0
+1592,FTXH,3508052.0,Equity,Health Care,Developed Markets,North America,0.0,0.0
+1593,FTXD,1215629.0,Equity,Consumer Discretionary,Developed Markets,North America,0.0,0.0
+1594,FTXL,42214563.0,Equity,Technology,Developed Markets,North America,0.0,0.0
+1595,FTXR,3837306.0,Equity,Industrials,Developed Markets,North America,0.0,0.0
+1596,CWS,15457500.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1597,VRIG,306220025.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1598,PSC,500602535.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+1599,FCEF,28879650.0,Multi Asset,Target Outcome,Developed Markets,Global,0.0,0.0
+1600,MCEF,13142510.0,Fixed Income,Broad Municipals,Developed Markets,North America,0.0,0.0
+1601,TTAC,78248500.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1602,OILK,10878427.0,Commodities,Crude Oil,Blended Development,Global,0.0,0.0
+1603,RORE,12192000.0,Real Estate,Real Estate,Developed Markets,North America,0.0,0.0
+1604,FLCO,39960880.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1605,FLLV,6634000.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1606,LVHB,198937564.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1607,EFAX,70484700.0,Equity,Theme,Developed Markets,Global Ex-U.S.,0.0,0.0
+1608,EEMX,21836500.0,Equity,Theme,Emerging Markets,Global Ex-U.S.,0.0,0.0
+1609,IFIX,4989050.0,Fixed Income,Investment Grade,Blended Development,Global Ex-U.S.,0.0,0.0
+1610,IGVT,4870049.0,Fixed Income,Broad Sovereign,Blended Development,Global Ex-U.S.,0.0,0.0
+1611,MVIN,0.0,Equity,Broad Equity,Developed Markets,Global,0.0,0.0
+1612,TCTL,26308775.0,Multi Asset,Target Outcome,Developed Markets,Developed Markets,0.0,0.0
+1613,ESGL,24594631.0,Equity,Theme,Developed Markets,North America,0.0,0.0
+1614,ESGF,23216904.0,Equity,Theme,Blended Development,Global,0.0,0.0
+1615,ACSI,50968650.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1616,CWEB,80605532.0,Equity,Technology,Emerging Markets,Asia-Pacific,1.0,1.0
+1617,IMTB,38143920.0,Fixed Income,Broad Debt,Developed Markets,North America,0.0,0.0
+1618,DHDG,6215000.0,Equity,Broad Equity,Developed Markets,Global Ex-U.S.,0.0,0.0
+1619,GVIP,93120000.0,Equity,Theme,Developed Markets,North America,0.0,0.0
+1620,EFAS,8648774.0,Equity,High Dividend Yield,Developed Markets,Global Ex-U.S.,0.0,0.0
+1621,JPSE,78551595.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+1622,VNLA,413325050.0,Fixed Income,Broad Debt,Blended Development,Global,0.0,0.0
+1623,LVHE,6823228.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,0.0
+1624,FLEU,273504660.0,Equity,Large Cap,Developed Markets,Europe,1.0,0.0
+1625,BNDC,22209274.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1626,IDHD,5581028.0,Equity,High Dividend Yield,Developed Markets,Global Ex-U.S.,0.0,0.0
+1627,XSHD,7866026.0,Equity,High Dividend Yield,Developed Markets,North America,0.0,0.0
+1628,ESGU,70752000.0,Equity,Theme,Developed Markets,North America,0.0,0.0
+1629,BLHY,78632888.0,Fixed Income,Broad Debt,Blended Development,Global,0.0,0.0
+1630,HYLB,1284486550.0,Fixed Income,High Yield,Developed Markets,North America,0.0,0.0
+1631,UWT,199416630.0,Commodities,Crude Oil,Blended Development,Global,1.0,0.0
+1632,DWT,164638800.0,Commodities,Crude Oil,Blended Development,Global,1.0,0.0
+1633,NULG,50206500.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1634,NULV,39767000.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1635,NUMG,47842620.0,Equity,Mid Cap,Developed Markets,North America,0.0,0.0
+1636,NUMV,43440029.0,Equity,Mid Cap,Developed Markets,North America,0.0,0.0
+1637,NUSC,57094083.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+1638,DIVO,15055000.0,Equity,High Dividend Yield,Developed Markets,North America,0.0,0.0
+1639,JHMD,65028920.0,Equity,Broad Equity,Developed Markets,Global Ex-U.S.,0.0,0.0
+1640,COWZ,31120000.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1641,BMLP,51220000.0,Equity,Energy,Developed Markets,North America,0.0,0.0
+1642,NURE,8370000.0,Real Estate,Real Estate,Developed Markets,North America,0.0,0.0
+1643,WBIY,49225140.0,Equity,High Dividend Yield,Developed Markets,North America,0.0,0.0
+1644,INFR,33357609.0,Equity,Theme,Blended Development,Global,0.0,0.0
+1645,WTIU,15980000.0,Commodities,Crude Oil,Blended Development,Global,1.0,0.0
+1646,WTID,4605000.0,Commodities,Crude Oil,Blended Development,Global,1.0,0.0
+1647,OUSM,130699800.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+1648,DUSA,121159200.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1649,DFNL,140026500.0,Equity,Financials,Blended Development,Global,0.0,0.0
+1650,DWLD,200803000.0,Equity,Broad Equity,Blended Development,Global,0.0,0.0
+1651,CLTL,466663706.0,Fixed Income,Treasury,Developed Markets,North America,0.0,0.0
+1652,QXGG,52222500.0,Multi Asset,Target Outcome,Blended Development,Global,0.0,0.0
+1653,QXTR,38338000.0,Multi Asset,Target Outcome,Blended Development,Global,0.0,0.0
+1654,XUSA,37260000.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1655,FLIO,5600660.0,Equity,Broad Equity,Blended Development,Global Ex-U.S.,0.0,0.0
+1656,GLDW,16090186.0,Commodities,Gold,Blended Development,Global,0.0,0.0
+1657,PFFR,21928597.0,Real Estate,Real Estate,Developed Markets,North America,0.0,0.0
+1658,XMX,307197000.0,Equity,Broad Equity,Blended Development,Global,0.0,0.0
+1659,BOSS,4070733.0,Equity,Theme,Developed Markets,North America,0.0,0.0
+1660,HYLV,106788024.0,Fixed Income,High Yield,Developed Markets,North America,0.0,0.0
+1661,TBLU,4350750.0,Equity,Natural Resources,Developed Markets,North America,0.0,0.0
+1662,FIXD,266069098.0,Fixed Income,Broad Debt,Blended Development,Global,0.0,0.0
+1663,PSMC,1281013.0,Multi Asset,Target Risk,Blended Development,Global,0.0,0.0
+1664,PSMM,1316893.0,Multi Asset,Target Risk,Blended Development,Global,0.0,0.0
+1665,PSMB,1375014.0,Multi Asset,Target Risk,Blended Development,Global,0.0,0.0
+1666,PSMG,1433004.0,Multi Asset,Target Risk,Blended Development,Global,0.0,0.0
+1667,ISMD,41528200.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+1668,BLES,77058000.0,Equity,Large Cap,Blended Development,Global,0.0,0.0
+1669,GRNB,16874000.0,Fixed Income,Broad Debt,Blended Development,Global,0.0,0.0
+1670,PAVE,114745933.0,Equity,Natural Resources,Developed Markets,North America,0.0,0.0
+1671,CEFS,22115536.0,Multi Asset,Target Outcome,Blended Development,Global,0.0,0.0
+1672,IDEV,917495040.0,Equity,Broad Equity,Developed Markets,Global Ex-U.S.,0.0,0.0
+1673,OILU,18792501.0,Commodities,Crude Oil,Blended Development,Global,1.0,1.0
+1674,OILD,15013421.0,Commodities,Crude Oil,Blended Development,Global,1.0,1.0
+1675,CWAI,8694000.0,Multi Asset,Target Outcome,Blended Development,Global,0.0,0.0
+1676,COM,47367025.0,Commodities,Broad Commodities,Blended Development,Global,0.0,0.0
+1677,BCI,168875654.0,Commodities,Broad Commodities,Blended Development,Global,0.0,0.0
+1678,BCD,3825026.0,Commodities,Broad Commodities,Blended Development,Global,0.0,0.0
+1679,ARCM,76072352.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1680,NUSA,21827111.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1681,TAIL,20088875.0,Multi Asset,Target Outcome,Developed Markets,North America,0.0,0.0
+1682,XSHQ,3037030.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+1683,JPGB,155354315.0,Fixed Income,Broad Debt,Blended Development,Global,0.0,0.0
+1684,ERM,28272047.0,Multi Asset,Target Risk,Developed Markets,North America,0.0,0.0
+1685,TERM,55366047.0,Multi Asset,Long/Short,Developed Markets,North America,0.0,0.0
+1686,IBML,63291000.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1687,VSDA,7799376.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1688,TETF,7867076.0,Equity,Theme,Developed Markets,North America,0.0,0.0
+1689,USOI,5982145.0,Multi Asset,Target Risk,Blended Development,Global,0.0,0.0
+1690,AGT,39253000.0,Equity,Broad Equity,Emerging Markets,Latin America,0.0,0.0
+1691,FLQL,119016000.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1692,FLQM,2892080.0,Equity,Mid Cap,Developed Markets,North America,0.0,0.0
+1693,FLQS,3000000.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+1694,DFEN,110093560.0,Equity,Industrials,Developed Markets,North America,1.0,1.0
+1695,DUSL,7690038.0,Equity,Industrials,Developed Markets,North America,1.0,0.0
+1696,MEXX,14880770.0,Equity,Broad Equity,Emerging Markets,Latin America,1.0,0.0
+1697,TPOR,11651169.0,Equity,Industrials,Developed Markets,North America,1.0,0.0
+1698,UTSL,5342027.0,Equity,Utilities,Developed Markets,North America,1.0,0.0
+1699,EVIX,3385960.0,Multi Asset,Volatility,Developed Markets,Europe,0.0,1.0
+1700,EXIV,30184200.0,Multi Asset,Volatility,Developed Markets,Europe,0.0,0.0
+1701,VMOT,102599942.0,Equity,Alpha-Seeking,Developed Markets,Global,0.0,0.0
+1702,CACG,70332030.0,Equity,Broad Equity,Blended Development,Global,0.0,0.0
+1703,GDVD,732672029.0,Equity,Broad Equity,Blended Development,Global,0.0,0.0
+1704,LVIN,5475980.0,Equity,Broad Equity,Developed Markets,Global Ex-U.S.,0.0,0.0
+1705,LVUS,5818000.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1706,CSML,489804029.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+1707,SHAG,34188000.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1708,JPST,532641156.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1709,COMB,26741840.0,Commodities,Broad Commodities,Blended Development,Global,0.0,0.0
+1710,COMG,7678440.0,Commodities,Broad Commodities,Blended Development,Global,0.0,0.0
+1711,YLDE,4432411.0,Equity,High Dividend Yield,Blended Development,Global,0.0,0.0
+1712,LRGE,5078042.0,Equity,Large Cap,Blended Development,Global,0.0,0.0
+1713,CCOR,90556342.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1714,FFHG,64360250.0,Multi Asset,Target Outcome,Developed Markets,North America,0.0,0.0
+1715,FFTI,158862000.0,Fixed Income,Broad Debt,Blended Development,Global,0.0,0.0
+1716,NUDM,45322000.0,Equity,Broad Equity,Developed Markets,Global Ex-U.S.,0.0,0.0
+1717,NUEM,36252300.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,0.0
+1718,GIGB,155740000.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,1.0
+1719,PPLN,10247580.0,Equity,Energy,Developed Markets,North America,0.0,0.0
+1720,BVAL,3294000.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1721,ICOW,19483101.0,Equity,Broad Equity,Developed Markets,Global Ex-U.S.,0.0,0.0
+1722,CALF,5808594.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+1723,FCAL,14985100.0,Fixed Income,Broad Municipals,Developed Markets,North America,0.0,0.0
+1724,RNDM,12667326.0,Equity,Broad Equity,Developed Markets,Global Ex-U.S.,0.0,0.0
+1725,RNEM,4912098.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,0.0
+1726,RNLC,18520046.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1727,RNMC,6797955.0,Equity,Mid Cap,Developed Markets,North America,0.0,0.0
+1728,RNSC,4606046.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+1729,RNDV,4538045.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1730,VSMV,7530090.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1731,OCIO,115259892.0,Multi Asset,Target Outcome,Blended Development,Global,0.0,0.0
+1732,GOAU,9714728.0,Equity,Basic Materials,Blended Development,Global,0.0,0.0
+1733,TTAI,8714118.0,Equity,Broad Equity,Developed Markets,Global Ex-U.S.,0.0,0.0
+1734,USMF,6142000.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1735,GSSC,21627000.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+1736,SMMD,7189500.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1737,PREF,47565095.0,Equity,Preferred Stock,Blended Development,Global,0.0,0.0
+1738,IBD,36735000.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1739,EUXL,3316522.0,Equity,Large Cap,Developed Markets,Europe,1.0,0.0
+1740,FNG,46835000.0,Equity,Technology,Developed Markets,North America,0.0,1.0
+1741,SQLV,3035334.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+1742,SUSB,28221000.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1743,SUSC,13310000.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1744,HYDB,14889000.0,Fixed Income,High Yield,Developed Markets,North America,0.0,0.0
+1745,IGEB,31122000.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1746,REEM,12823435.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,0.0
+1747,RGLB,13500648.0,Equity,Broad Equity,Blended Development,Global,0.0,0.0
+1748,REFA,13493876.0,Equity,Broad Equity,Developed Markets,Global Ex-U.S.,0.0,0.0
+1749,SPMV,1467494.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1750,USEQ,125193029.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1751,EQRR,15237051.0,Equity,Theme,Developed Markets,North America,0.0,0.0
+1752,EMXC,9830000.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,0.0
+1753,USOU,7712184.0,Commodities,Crude Oil,Blended Development,Global,1.0,0.0
+1754,USOD,438555.0,Commodities,Crude Oil,Blended Development,Global,1.0,0.0
+1755,DMRL,432919500.0,Multi Asset,Target Outcome,Developed Markets,North America,0.0,0.0
+1756,DMRM,129858000.0,Multi Asset,Target Outcome,Developed Markets,North America,0.0,0.0
+1757,DMRS,62600895.0,Multi Asset,Target Outcome,Developed Markets,North America,0.0,0.0
+1758,DMRI,226409480.0,Multi Asset,Target Outcome,Developed Markets,Global Ex-U.S.,0.0,0.0
+1759,EDOW,10737048.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1760,AMCA,10059000.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1761,ULBR,15755000.0,Fixed Income,Broad Market,Developed Markets,North America,0.0,0.0
+1762,DLBR,2470350.0,Fixed Income,Broad Market,Developed Markets,North America,0.0,0.0
+1763,FFIU,47367613.0,Fixed Income,Broad Market,Blended Development,Global,0.0,0.0
+1764,FPEI,77557538.0,Multi Asset,Target Outcome,Blended Development,Global,0.0,0.0
+1765,BAR,13167000.0,Commodities,Gold,Blended Development,Global,0.0,0.0
+1766,FLMI,7305000.0,Fixed Income,Broad Market,Developed Markets,North America,0.0,0.0
+1767,FLMB,7278000.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1768,MFUS,69669600.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1769,MFDX,29197840.0,Equity,Broad Equity,Developed Markets,Global Ex-U.S.,0.0,0.0
+1770,MFEM,359273600.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,0.0
+1771,SECT,323544000.0,Equity,Alpha-Seeking,Developed Markets,North America,0.0,0.0
+1772,MAGA,40978218.0,Equity,Theme,Developed Markets,North America,0.0,1.0
+1773,GHYB,14632500.0,Fixed Income,High Yield,Developed Markets,North America,0.0,0.0
+1774,OBOR,31811526.0,Equity,Theme,Emerging Markets,Asia-Pacific,0.0,0.0
+1775,PFFD,26659491.0,Equity,Preferred Stock,Developed Markets,North America,0.0,0.0
+1776,GSEW,48709500.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1777,MLQD,9490000.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1778,LLQD,9432000.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1779,IBDS,116523000.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1780,RBUS,122980000.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1781,RBIN,122122500.0,Equity,Large Cap,Developed Markets,Global Ex-U.S.,0.0,0.0
+1782,MXDU,121032000.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1783,PBUS,2915789.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1784,PBSM,2971240.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+1785,PBDM,2438144.0,Equity,Broad Equity,Developed Markets,Global Ex-U.S.,0.0,0.0
+1786,PBEE,2344133.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,0.0
+1787,PBTP,2451025.0,Fixed Income,TIPS,Developed Markets,North America,0.0,0.0
+1788,BSCR,22764000.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1789,BSJP,12120000.0,Fixed Income,High Yield,Developed Markets,North America,0.0,0.0
+1790,HTRB,19495000.0,Fixed Income,Broad Debt,Developed Markets,Global,0.0,0.0
+1791,DALT,26633985.0,Multi Asset,Global Macro,Blended Development,Global,0.0,0.0
+1792,PBND,23959436.0,Fixed Income,Broad Debt,Developed Markets,North America,0.0,0.0
+1793,NUBD,33663840.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1794,LFEQ,31109760.0,Multi Asset,Target Risk,Developed Markets,North America,0.0,0.0
+1795,CHGX,4133540.0,Equity,Theme,Developed Markets,North America,0.0,0.0
+1796,SCHK,408392000.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1797,USMC,2033376028.0,Equity,Large Cap,Developed Markets,North America,0.0,1.0
+1798,DIAL,104746884.0,Fixed Income,Broad Debt,Blended Development,Global,0.0,0.0
+1799,KGRN,5958695.0,Equity,Theme,Emerging Markets,Emerging Markets,0.0,0.0
+1800,BERN,1493940.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1801,BRGL,2663654.0,Equity,Large Cap,Blended Development,Global,0.0,0.0
+1802,PLCY,9186920.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1803,MMIN,14826025.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1804,MMIT,29556025.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1805,AIEQ,146619350.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1806,PVAL,5500027.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1807,PMOM,5980030.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1808,VGFO,5350067.0,Equity,Broad Equity,Blended Development,Global,0.0,0.0
+1809,KEMQ,20817063.0,Equity,Technology,Emerging Markets,Asia-Pacific,0.0,0.0
+1810,CEY,17930755.0,Equity,Large Cap,Emerging Markets,Emerging Markets,0.0,0.0
+1811,USTB,47034500.0,Fixed Income,Broad Debt,Developed Markets,North America,0.0,0.0
+1812,UITB,141983500.0,Fixed Income,Broad Debt,Developed Markets,North America,0.0,0.0
+1813,ULVM,335655000.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1814,USVM,50005710.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+1815,UIVM,258615000.0,Equity,Broad Equity,Developed Markets,Global Ex-U.S.,0.0,0.0
+1816,UEVM,137069400.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,0.0
+1817,USHY,231942500.0,Fixed Income,High Yield,Developed Markets,North America,0.0,1.0
+1818,GUDB,9650000.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1819,BIBL,19789000.0,Equity,Theme,Developed Markets,North America,0.0,0.0
+1820,RVRS,4236900.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1821,FTVA,68354344.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1822,FFSG,16931250.0,Equity,Broad Equity,Blended Development,Global,0.0,0.0
+1823,FFTG,26950250.0,Multi Asset,Target Outcome,Developed Markets,Global,0.0,0.0
+1824,FMHI,27599100.0,Fixed Income,Broad Municipals,Developed Markets,North America,0.0,0.0
+1825,SDVY,2164253.0,Equity,High Dividend Yield,Developed Markets,North America,0.0,0.0
+1826,FLAU,3783000.0,Equity,Broad Equity,Developed Markets,Asia-Pacific,0.0,0.0
+1827,FLBR,33488000.0,Equity,Broad Equity,Emerging Markets,Latin America,0.0,0.0
+1828,FLCA,3765000.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1829,FLCH,27694800.0,Equity,Broad Equity,Emerging Markets,Asia-Pacific,0.0,0.0
+1830,FLFR,2540000.0,Equity,Broad Equity,Developed Markets,Europe,0.0,0.0
+1831,FLGR,2344000.0,Equity,Broad Equity,Developed Markets,Europe,0.0,0.0
+1832,FLHK,7155000.0,Equity,Broad Equity,Developed Markets,Asia-Pacific,0.0,0.0
+1833,FLIY,2422000.0,Equity,Broad Equity,Developed Markets,Europe,0.0,0.0
+1834,FLJP,95760000.0,Equity,Broad Equity,Developed Markets,Asia-Pacific,0.0,0.0
+1835,FLKR,23470000.0,Equity,Broad Equity,Developed Markets,Asia-Pacific,0.0,0.0
+1836,FLMX,2566000.0,Equity,Broad Equity,Emerging Markets,Latin America,0.0,0.0
+1837,FLTW,5184000.0,Equity,Broad Equity,Developed Markets,Asia-Pacific,0.0,0.0
+1838,FLGB,2499000.0,Equity,Broad Equity,Developed Markets,Europe,0.0,0.0
+1839,FLEE,103194000.0,Equity,Broad Equity,Developed Markets,Europe,0.0,0.0
+1840,FLEH,35042000.0,Equity,Broad Equity,Developed Markets,Europe,0.0,0.0
+1841,FLJH,48042000.0,Equity,Broad Equity,Developed Markets,Asia-Pacific,0.0,0.0
+1842,DIVB,8361000.0,Equity,Theme,Developed Markets,North America,0.0,0.0
+1843,ENTR,0.0,Equity,Theme,Developed Markets,North America,0.0,0.0
+1844,EMEM,24150092.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,0.0
+1845,JDIV,28183074.0,Equity,High Dividend Yield,Developed Markets,North America,0.0,0.0
+1846,JMIN,28894541.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1847,JMOM,30114411.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1848,JQUA,29982659.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1849,JVAL,28605296.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1850,PXUS,15252267.0,Equity,Broad Equity,Developed Markets,Global Ex-U.S.,0.0,0.0
+1851,JHSC,40817500.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+1852,VTC,50543750.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1853,OMFL,15979908.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1854,OMFS,14119689.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+1855,OMOM,5783913.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1856,OQAL,5733742.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1857,OSIZ,5680852.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1858,OVLU,5471015.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1859,OVOL,5453945.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1860,OYLD,5322426.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1861,PILL,5400036.0,Equity,Health Care,Developed Markets,North America,1.0,0.0
+1862,EMTY,20347500.0,Equity,Consumer Discretionary,Developed Markets,North America,0.0,0.0
+1863,CLIX,46950047.0,Equity,Long/Short,Developed Markets,North America,0.0,0.0
+1864,SPDV,6926102.0,Equity,High Dividend Yield,Developed Markets,North America,0.0,0.0
+1865,EEMD,2299931.0,Equity,High Dividend Yield,Emerging Markets,Emerging Markets,0.0,0.0
+1866,BUY,2795028.0,Equity,Alpha-Seeking,Developed Markets,North America,0.0,0.0
+1867,BUYN,2807028.0,Equity,Energy,Developed Markets,North America,0.0,0.0
+1868,JPED,27883648.0,Equity,Alpha-Seeking,Developed Markets,Global,0.0,0.0
+1869,IZRL,25160076.0,Equity,Technology,Developed Markets,Middle East & Africa,0.0,0.0
+1870,JPMF,50643054.0,Multi Asset,Long/Short,Blended Development,Global,0.0,0.0
+1871,ACT,13495000.0,Equity,Theme,Developed Markets,North America,0.0,0.0
+1872,PWS,65649031.0,Multi Asset,Target Risk,Developed Markets,North America,0.0,0.0
+1873,DJPY,4000000.0,Currency,Japanese Yen,Developed Markets,Asia-Pacific,0.0,0.0
+1874,DEUR,4105600.0,Currency,Euro,Developed Markets,Europe,0.0,0.0
+1875,DGBP,4278400.0,Currency,Pound Sterling,Developed Markets,Europe,0.0,0.0
+1876,DCHF,3782400.0,Currency,Swiss Franc,Developed Markets,Europe,0.0,0.0
+1877,DAUD,4410368.0,Currency,Australian Dollar,Developed Markets,Asia-Pacific,0.0,0.0
+1878,UJPY,3878400.0,Currency,Japanese Yen,Developed Markets,Asia-Pacific,0.0,0.0
+1879,UEUR,3627200.0,Currency,Euro,Developed Markets,Europe,0.0,0.0
+1880,UGBP,3481280.0,Currency,Pound Sterling,Developed Markets,Europe,0.0,0.0
+1881,UCHF,4123200.0,Currency,Swiss Franc,Developed Markets,Europe,0.0,0.0
+1882,UAUD,3266256.0,Currency,Australian Dollar,Developed Markets,Asia-Pacific,0.0,0.0
+1883,CLRG,333707026.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1884,HMOP,11823000.0,Fixed Income,Broad Municipals,Developed Markets,North America,0.0,0.0
+1885,USAI,3878353.0,Equity,Energy,Developed Markets,North America,0.0,0.0
+1886,LDRS,58075050.0,Equity,Alpha-Seeking,Blended Development,Global,0.0,0.0
+1887,WBAL,2454098.0,Multi Asset,Target Risk,Blended Development,Global,0.0,0.0
+1888,WCHN,11997107.0,Equity,Large Cap,Emerging Markets,Asia-Pacific,0.0,0.0
+1889,LSST,0.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1890,DWCR,14420000.0,Equity,Alpha-Seeking,Blended Development,Global Ex-U.S.,0.0,0.0
+1891,DTEC,17899320.0,Equity,Technology,Blended Development,Global,0.0,0.0
+1892,DOGS,5074000.0,Equity,Alpha-Seeking,Blended Development,Global Ex-U.S.,0.0,0.0
+1893,XKII,4682625.0,Equity,Theme,Blended Development,Global,0.0,0.0
+1894,XKST,4620045.0,Equity,Industrials,Blended Development,Global,0.0,0.0
+1895,XKFS,8930000.0,Equity,Industrials,Blended Development,Global,0.0,0.0
+1896,SHYL,32259550.0,Fixed Income,High Yield,Developed Markets,North America,0.0,0.0
+1897,HYUP,147337249.0,Fixed Income,High Yield,Developed Markets,North America,0.0,0.0
+1898,HYDW,137171769.0,Fixed Income,High Yield,Developed Markets,North America,0.0,0.0
+1899,PRID,0.0,Equity,Theme,Developed Markets,North America,0.0,0.0
+1900,BLCN,129965024.0,Equity,Large Cap,Blended Development,Global,0.0,1.0
+1901,HNDL,3601443.0,Multi Asset,Target Risk,Developed Markets,North America,0.0,0.0
+1902,BLOK,185390236.0,Equity,Broad Equity,Blended Development,Global,0.0,1.0
+1903,VALQ,0.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1904,KORP,0.0,Fixed Income,Broad Market,Developed Markets,North America,0.0,0.0
+1905,WLDR,4891800.0,Equity,Broad Equity,Developed Markets,Developed Markets,0.0,0.0
+1906,VXXB,99684459.0,Multi Asset,Volatility,Developed Markets,North America,0.0,1.0
+1907,VXZB,10340122.0,Multi Asset,Volatility,Developed Markets,North America,0.0,1.0
+1908,FIDI,11117150.0,Equity,High Dividend Yield,Developed Markets,Global Ex-U.S.,0.0,0.0
+1909,FIVA,11521650.0,Equity,Large Cap,Developed Markets,Global Ex-U.S.,0.0,0.0
+1910,KARS,0.0,Equity,Large Cap,Blended Development,Global,0.0,0.0
+1911,HONR,0.0,Equity,Theme,Developed Markets,North America,0.0,0.0
+1912,PLTM,3710250.0,Commodities,Platinum,Blended Development,Global,0.0,0.0
+1913,FNGU,0.0,Equity,Theme,Developed Markets,North America,1.0,0.0
+1914,FNGD,0.0,Equity,Theme,Developed Markets,North America,1.0,0.0
+1915,LEGR,41377561.0,Equity,Theme,Blended Development,Global,0.0,0.0
+1916,JPLS,23484675.0,Equity,Long/Short,Developed Markets,Developed Markets,0.0,0.0
+1917,TMFC,117006579.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1918,KOIN,0.0,Equity,Theme,Blended Development,Global,0.0,0.0
+1919,JPMB,51220842.0,Fixed Income,Broad Sovereign,Emerging Markets,Emerging Markets,0.0,0.0
+1920,RPUT,2648106.0,Multi Asset,Volatility,Developed Markets,North America,0.0,0.0
+1921,KURE,0.0,Equity,Health Care,Emerging Markets,Asia-Pacific,0.0,0.0
+1922,IDIV,0.0,Multi Asset,Target Outcome,Developed Markets,North America,0.0,0.0
+1923,XDIV,0.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1924,FLIN,2179000.0,Equity,Broad Equity,Emerging Markets,Asia-Pacific,0.0,0.0
+1925,FLRU,2278000.0,Equity,Broad Equity,Emerging Markets,Europe,0.0,0.0
+1926,FLAX,8752000.0,Equity,Broad Equity,Developed Markets,Asia-Pacific,0.0,0.0
+1927,FLSW,2337000.0,Equity,Broad Equity,Developed Markets,Europe,0.0,0.0
+1928,EKAR,0.0,Equity,Theme,Blended Development,Global,0.0,0.0
+1929,PPDM,23200023.0,Equity,Broad Equity,Developed Markets,Global Ex-U.S.,1.0,0.0
+1930,PPEM,19964271.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,1.0,0.0
+1931,PPMC,27839928.0,Equity,Mid Cap,Developed Markets,North America,1.0,0.0
+1932,VFMV,8550000.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1933,VFVA,8137000.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1934,VFMO,10785000.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1935,VFLQ,8390000.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1936,VFQY,8599000.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1937,VFMF,29074500.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1938,ROBT,12952065.0,Equity,Theme,Blended Development,Global,0.0,0.0
+1939,VSL,3228228.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1940,BOON,6751105.0,Equity,Energy,Developed Markets,North America,0.0,0.0
+1941,DINT,23783500.0,Equity,Broad Equity,Blended Development,Global Ex-U.S.,0.0,0.0
+1942,FIYY,1617579765.0,Equity,High Dividend Yield,Developed Markets,Global,1.0,0.0
+1943,FFEU,451562276.0,Equity,Broad Equity,Developed Markets,Europe,1.0,0.0
+1944,IBMM,5005100.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1945,BDRY,4590918.0,Multi Asset,Global Macro,Blended Development,Global,0.0,0.0
+1946,IETC,5596000.0,Equity,Technology,Developed Markets,North America,0.0,0.0
+1947,IECS,5088000.0,Equity,Consumer Staples,Developed Markets,North America,0.0,0.0
+1948,IEDI,5688000.0,Equity,Consumer Discretionary,Developed Markets,North America,0.0,0.0
+1949,IEFN,5096000.0,Equity,Financials,Developed Markets,North America,0.0,0.0
+1950,IEHS,5901100.0,Equity,Health Care,Developed Markets,North America,0.0,0.0
+1951,IEIH,5430580.0,Equity,Health Care,Developed Markets,North America,0.0,0.0
+1952,IEME,5542000.0,Equity,Consumer Discretionary,Developed Markets,North America,0.0,0.0
+1953,PPTY,29179500.0,Real Estate,Real Estate,Developed Markets,North America,0.0,0.0
+1954,KNG,6508543.0,Equity,High Dividend Yield,Developed Markets,North America,0.0,0.0
+1955,MXDE,27708000.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,0.0
+1956,MSUS,5951805.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1957,FRLG,0.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1958,QARP,55000028.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+1959,IFRA,2749700.0,Equity,Theme,Developed Markets,North America,0.0,0.0
+1960,CMDY,48449900.0,Commodities,Broad Commodities,Blended Development,Global,0.0,0.0
+1961,RAAX,2538000.0,Multi Asset,Global Macro,Blended Development,Global,0.0,0.0
+1962,VETS,2804477.0,Equity,Theme,Blended Development,Global,0.0,0.0
+1963,PULS,0.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1964,ESML,11340000.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+1965,DRIV,0.0,Equity,Theme,Blended Development,Global,0.0,0.0
+1966,UBOT,1975920.0,Equity,Theme,Developed Markets,Developed Markets,1.0,0.0
+1967,HTAB,20821500.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1968,IG,98480025.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1969,SDCI,0.0,Commodities,Broad Commodities,Blended Development,Global,0.0,0.0
+1970,SPXB,0.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1971,LQDI,0.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1972,FEUL,0.0,Equity,Broad Equity,Developed Markets,Europe,1.0,0.0
+1973,AIQ,0.0,Equity,Theme,Developed Markets,Developed Markets,0.0,0.0
+1974,DALI,0.0,Equity,Alpha-Seeking,Blended Development,Global,0.0,0.0
+1975,INDS,0.0,Real Estate,Real Estate,Developed Markets,North America,0.0,0.0
+1976,SRVR,0.0,Real Estate,Real Estate,Developed Markets,North America,0.0,0.0
+1977,RTL,0.0,Real Estate,Real Estate,Developed Markets,North America,0.0,0.0
+1978,SLT,0.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+1979,PFFA,0.0,Equity,Preferred Stock,Developed Markets,North America,1.0,0.0
+1980,HSRT,0.0,Fixed Income,Broad Debt,Blended Development,Global,0.0,0.0
+1981,FLHY,0.0,Fixed Income,High Yield,Blended Development,Global,0.0,0.0
+1982,FLIA,0.0,Fixed Income,Broad Debt,Blended Development,Global Ex-U.S.,0.0,0.0
+1983,FLBL,0.0,Fixed Income,High Yield,Developed Markets,North America,0.0,0.0
+1984,UCON,0.0,Fixed Income,Broad Market,Blended Development,Global,0.0,0.0
+1985,OGIG,0.0,Equity,Technology,Blended Development,Global,0.0,0.0
+1986,AIIQ,0.0,Equity,Broad Equity,Developed Markets,Developed Markets,0.0,0.0
+1987,BATT,0.0,Equity,Basic Materials,Blended Development,Global,0.0,0.0
+1988,IAUF,0.0,Commodities,Gold,Blended Development,Global,0.0,0.0
+1989,JUST,0.0,Equity,Broad Equity,Developed Markets,North America,0.0,1.0
+1990,EASI,0.0,Multi Asset,Target Outcome,Developed Markets,North America,0.0,0.0
+1991,FLDR,0.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+1992,FDHY,0.0,Fixed Income,High Yield,Developed Markets,Global,0.0,0.0
+1993,BBRE,0.0,Real Estate,Real Estate,Developed Markets,North America,0.0,0.0
+1994,BBJP,0.0,Equity,Broad Equity,Developed Markets,Asia-Pacific,0.0,0.0
+1995,BBEU,0.0,Equity,Broad Equity,Developed Markets,Europe,0.0,0.0
+1996,XLC,0.0,Equity,Communications,Developed Markets,North America,0.0,1.0
+1997,BCNA,0.0,Equity,Theme,Emerging Markets,Asia-Pacific,0.0,0.0
+1998,BIKR,0.0,Multi-Asset,Target Outcome,Blended Development,Global,0.0,0.0
+1999,GLDM,0.0,Commodities,Gold,Blended Development,Global,0.0,0.0
+2000,IRBO,0.0,Equity,Theme,Blended Development,Global,0.0,0.0
+2001,ACES,0.0,Equity,Theme,Developed Markets,North America,0.0,0.0
+2002,KCCB,0.0,Fixed Income,High Yield,Emerging Markets,Asia-Pacific,0.0,0.0
+2003,DWMC,0.0,Equity,Micro Cap,Developed Markets,North America,0.0,0.0
+2004,DWSH,0.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+2005,OPER,0.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+2006,ONLN,0.0,Equity,Theme,Blended Development,Global,0.0,0.0
+2007,QDIV,0.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+2008,HYGV,0.0,Fixed Income,High Yield,Developed Markets,North America,0.0,0.0
+2009,NACP,0.0,Equity,Theme,Developed Markets,North America,0.0,0.0
+2010,OSCV,0.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+2011,LOUP,0.0,Equity,Technology,Blended Development,Global,0.0,0.0
+2012,PEXL,0.0,Equity,Theme,Developed Markets,North America,0.0,0.0
+2013,SZNE,0.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+2014,IHYD,0.0,Fixed Income,High Yield,Developed Markets,North America,0.0,0.0
+2015,IHYV,0.0,Fixed Income,High Yield,Developed Markets,North America,0.0,0.0
+2016,IEMD,0.0,Fixed Income,Investment Grade,Emerging Markets,Emerging Markets,0.0,0.0
+2017,IEMV,0.0,Fixed Income,Broad Sovereign,Emerging Markets,Emerging Markets,0.0,0.0
+2018,IIGD,0.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+2019,IIGV,0.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+2020,IMFC,0.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+2021,IMFP,0.0,Fixed Income,Broad Market,Blended Development,Global,0.0,0.0
+2022,FCTR,0.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+2023,TFIV,0.0,Multi Asset,Target Outcome,Blended Development,Global,0.0,0.0
+2024,TFLT,0.0,Multi Asset,Target Outcome,Blended Development,Global,0.0,0.0
+2025,AUGR,0.0,Equity,Technology,Blended Development,Global,0.0,0.0
+2026,NTSX,0.0,Multi Asset,Target Outcome,Developed Markets,North America,0.0,0.0
+2027,GNAF,0.0,Equity,Theme,Developed Markets,North America,0.0,0.0
+2028,FNGO,0.0,Equity,Theme,Developed Markets,North America,1.0,0.0
+2029,FNGZ,0.0,Equity,Theme,Developed Markets,North America,1.0,0.0
+2030,PJUL,0.0,Equity,Target Outcome,Developed Markets,North America,0.0,0.0
+2031,UJUL,0.0,Equity,Target Outcome,Developed Markets,North America,0.0,0.0
+2032,BBAX,0.0,Equity,Broad Equity,Developed Markets,Asia-Pacific,0.0,0.0
+2033,BBCA,0.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+2034,DRSK,0.0,Multi Asset,Target Risk,Developed Markets,North America,0.0,0.0
+2035,REDV,0.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,0.0
+2036,RIDV,0.0,Equity,Broad Equity,Developed Markets,Global Ex-U.S.,0.0,0.0
+2037,BSCS,0.0,Fixed Income,Investment Grade,Developed Markets,North America,0.0,0.0
+2038,BSJQ,0.0,Fixed Income,High Yield,Developed Markets,North America,0.0,0.0
+2039,EMMF,0.0,Equity,Broad Equity,Emerging Markets,Emerging Markets,0.0,0.0
+2040,DWMF,0.0,Equity,Broad Equity,Developed Markets,Global Ex-U.S.,0.0,0.0
+2041,CHNA,3477603.0,Equity,Health Care,Emerging Markets,Asia-Pacific,0.0,0.0
+2042,AAAU,0.0,Commodities,Gold,Blended Development,Blended Development,0.0,0.0
+2043,PYPE,0.0,Equity,Energy,Developed Markets,North America,0.0,0.0
+2044,WOMN,0.0,Equity,Theme,Developed Markets,North America,0.0,0.0
+2045,AUSF,0.0,Equity,Alpha-Seeking,Developed Markets,North America,0.0,0.0
+2046,BJUL,0.0,,,,,0.0,0.0
+2047,QTUM,0.0,Equity,Theme,Blended Development,Global,0.0,0.0
+2048,DVLU,0.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+2049,DVOL,0.0,Equity,Broad Equity,Developed Markets,North America,0.0,0.0
+2050,BNDW,0.0,Fixed Income,Investment Grade,Blended Development,Global,0.0,0.0
+2051,KMED,0.0,Equity,Health Care,Emerging Markets,Emerging Markets,0.0,0.0
+2052,EASG,0.0,Equity,Theme,Developed Markets,Developed Markets,0.0,0.0
+2053,IUS,0.0,Equity,Large Cap,Developed Markets,North America,0.0,0.0
+2054,IUSS,0.0,Equity,Small Cap,Developed Markets,North America,0.0,0.0
+2055,ISDX,0.0,Equity,Large Cap,Developed Markets,Developed Markets,0.0,0.0
+2056,ISDS,0.0,Equity,Small Cap,Developed Markets,Developed Markets,0.0,0.0
+2057,ISEM,0.0,Equity,Large Cap,Emerging Markets,Emerging Markets,0.0,0.0
